@@ -1,0 +1,28 @@
+name: refresh-autohome-index
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2 1 * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download latest upstream data
+        run: |
+          git clone --depth 1 https://github.com/swoiow/autohome.git /tmp/autohome
+          rm -rf autohome-main/data autohome-main/brands.csv
+          cp -R /tmp/autohome/data autohome-main/data
+          cp /tmp/autohome/brands.csv autohome-main/brands.csv
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node build-index.js
+      - name: Commit if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add autohome-main app/models.json
+          git diff --cached --quiet || (git commit -m "chore: refresh autohome vehicle data" && git push)
