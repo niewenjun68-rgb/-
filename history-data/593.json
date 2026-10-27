@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "593",
+  "series": "奥迪Q5(进口)",
+  "fetched_at": "2026-10-27T03:00:49.900Z",
+  "count": 8,
+  "pages": 15,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2013款",
+      "trim": "2013款 40 TFSI hybrid",
+      "spec_id": "14973",
+      "price": "60.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14973.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2013款",
+      "trim": "2013款 45 TFSI quattro 运动型",
+      "spec_id": "15389",
+      "price": "58.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15389.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2013款",
+      "trim": "2013款 45 TFSI quattro 越野型",
+      "spec_id": "15842",
+      "price": "61.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15842.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2012款",
+      "trim": "2012款 2.0TFSI hybrid",
+      "spec_id": "8901",
+      "price": "60.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/8901.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2010款",
+      "trim": "2010款 2.0TFSI 运动版",
+      "spec_id": "3844",
+      "price": "57.70万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3844.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2010款",
+      "trim": "2010款 2.0TFSI 越野版",
+      "spec_id": "6315",
+      "price": "63.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6315.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2010款",
+      "trim": "2010款 3.2FSI 运动版",
+      "spec_id": "5388",
+      "price": "65.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5388.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "593",
+      "series": "奥迪Q5(进口)",
+      "year": "2010款",
+      "trim": "2010款 3.2FSI 越野版",
+      "spec_id": "6316",
+      "price": "67.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6316.html"
+    }
+  ]
+}

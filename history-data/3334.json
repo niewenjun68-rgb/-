@@ -1,0 +1,20 @@
+{
+  "source": "autohome",
+  "series_id": "3334",
+  "series": "奥迪Q9",
+  "fetched_at": "2026-10-27T02:57:24.575Z",
+  "count": 1,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "3334",
+      "series": "奥迪Q9",
+      "year": "车型",
+      "trim": "2026款 基本型",
+      "spec_id": "77808",
+      "price": "暂无报价",
+      "config_url": "https://car.autohome.com.cn/config/spec/77808.html"
+    }
+  ]
+}

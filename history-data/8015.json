@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "8015",
+  "series": "比亚迪e7",
+  "fetched_at": "2026-10-27T02:56:43.209Z",
+  "count": 6,
+  "pages": 8,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 450智惠版",
+      "spec_id": "73072",
+      "price": "10.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73072.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 520智惠版",
+      "spec_id": "73073",
+      "price": "10.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73073.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 520智行版",
+      "spec_id": "71398",
+      "price": "11.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71398.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 450智惠出行版",
+      "spec_id": "74241",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74241.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 520智惠出行版",
+      "spec_id": "74242",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74242.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8015",
+      "series": "比亚迪e7",
+      "year": "电动 136马力",
+      "trim": "2025款 520智行出行版",
+      "spec_id": "74243",
+      "price": "13.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74243.html"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "5240",
+  "series": "奥迪Q2L e-tron (停售)",
+  "fetched_at": "2026-10-27T02:56:23.365Z",
+  "count": 3,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5240",
+      "series": "奥迪Q2L e-tron (停售)",
+      "year": "2022款",
+      "trim": "2022款 Q2L e-tron 纯电智享型",
+      "spec_id": "55144",
+      "price": "24.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55144.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5240",
+      "series": "奥迪Q2L e-tron (停售)",
+      "year": "2019款",
+      "trim": "2019款 Q2L e-tron 纯电智酷型",
+      "spec_id": "42875",
+      "price": "22.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42875.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5240",
+      "series": "奥迪Q2L e-tron (停售)",
+      "year": "2019款",
+      "trim": "2019款 Q2L e-tron 纯电智享型",
+      "spec_id": "39893",
+      "price": "23.73万",
+      "config_url": "https://car.autohome.com.cn/config/spec/39893.html"
+    }
+  ]
+}

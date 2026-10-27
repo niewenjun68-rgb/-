@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "3302",
+  "series": "宝马2系旅行车(进口) (停售)",
+  "fetched_at": "2026-10-27T03:06:48.366Z",
+  "count": 3,
+  "pages": 10,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "3302",
+      "series": "宝马2系旅行车(进口) (停售)",
+      "year": "2015款",
+      "trim": "2015款 218i 运动设计套装",
+      "spec_id": "19016",
+      "price": "31.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19016.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3302",
+      "series": "宝马2系旅行车(进口) (停售)",
+      "year": "2015款",
+      "trim": "2015款 218i 领先型",
+      "spec_id": "21315",
+      "price": "27.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21315.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3302",
+      "series": "宝马2系旅行车(进口) (停售)",
+      "year": "2015款",
+      "trim": "2014款 220i 豪华设计套装",
+      "spec_id": "21316",
+      "price": "34.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21316.html"
+    }
+  ]
+}

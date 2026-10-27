@@ -1,0 +1,100 @@
+{
+  "source": "autohome",
+  "series_id": "5371",
+  "series": "比亚迪e3",
+  "fetched_at": "2026-10-27T02:56:37.468Z",
+  "count": 9,
+  "pages": 9,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "电动 136马力",
+      "trim": "2021款 出行版",
+      "spec_id": "51306",
+      "price": "15.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51306.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "电动 136马力",
+      "trim": "2021款 领畅版",
+      "spec_id": "52635",
+      "price": "15.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52635.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2021款",
+      "trim": "2021款 升级版 高续航版 豪华型",
+      "spec_id": "47394",
+      "price": "13.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47394.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2021款",
+      "trim": "2021款 升级版 高续航版 尊贵型",
+      "spec_id": "47395",
+      "price": "13.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47395.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2020款",
+      "trim": "2020款 标准续航版 智·舒适型",
+      "spec_id": "42562",
+      "price": "10.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42562.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2020款",
+      "trim": "2020款 高续航版 耀·豪华型",
+      "spec_id": "40810",
+      "price": "11.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/40810.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2020款",
+      "trim": "2020款 高续航版 创·尊贵型",
+      "spec_id": "42561",
+      "price": "11.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42561.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2020款",
+      "trim": "2020款 300出行版",
+      "spec_id": "42566",
+      "price": "14.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42566.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5371",
+      "series": "比亚迪e3",
+      "year": "2020款",
+      "trim": "2020款 400出行版",
+      "spec_id": "42567",
+      "price": "16.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42567.html"
+    }
+  ]
+}

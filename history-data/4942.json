@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "4942",
+  "series": "宝马iX",
+  "fetched_at": "2026-10-27T03:05:36.962Z",
+  "count": 6,
+  "pages": 16,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "电动 326马力",
+      "trim": "2023款 改款 xDrive40",
+      "spec_id": "63899",
+      "price": "74.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63899.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "电动 524马力",
+      "trim": "2023款 改款 xDrive50",
+      "spec_id": "63896",
+      "price": "84.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63896.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "2023款",
+      "trim": "2023款 xDrive40",
+      "spec_id": "61601",
+      "price": "74.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61601.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "2023款",
+      "trim": "2023款 xDrive50",
+      "spec_id": "61602",
+      "price": "86.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61602.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "2022款",
+      "trim": "2022款 xDrive40",
+      "spec_id": "55270",
+      "price": "74.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55270.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4942",
+      "series": "宝马iX",
+      "year": "2022款",
+      "trim": "2022款 xDrive50",
+      "spec_id": "50210",
+      "price": "84.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50210.html"
+    }
+  ]
+}

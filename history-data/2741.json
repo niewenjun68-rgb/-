@@ -1,0 +1,20 @@
+{
+  "source": "autohome",
+  "series_id": "2741",
+  "series": "奥迪TT RS",
+  "fetched_at": "2026-10-27T03:02:10.447Z",
+  "count": 1,
+  "pages": 7,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2741",
+      "series": "奥迪TT RS",
+      "year": "2017款",
+      "trim": "2017款 TT RS 2.5T Coupe",
+      "spec_id": "26290",
+      "price": "76.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/26290.html"
+    }
+  ]
+}

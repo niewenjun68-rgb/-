@@ -1,0 +1,130 @@
+{
+  "source": "autohome",
+  "series_id": "2739",
+  "series": "奥迪S8",
+  "fetched_at": "2026-10-27T02:59:02.267Z",
+  "count": 12,
+  "pages": 7,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "4.0升 双涡轮增压 571马力",
+      "trim": "2026款 S8L 4.0TFSI quattro",
+      "spec_id": "74846",
+      "price": "207.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74846.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "4.0升 双涡轮增压 571马力",
+      "trim": "2025款 S8L 4.0TFSI quattro",
+      "spec_id": "70491",
+      "price": "207.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70491.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2024款",
+      "trim": "2024款 S8L 4.0TFSI quattro",
+      "spec_id": "64048",
+      "price": "207.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64048.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2023款",
+      "trim": "2023款 S8L 4.0TFSI quattro",
+      "spec_id": "59022",
+      "price": "207.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59022.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2022款",
+      "trim": "2022款 S8L 4.0TFSI quattro 典藏版",
+      "spec_id": "52021",
+      "price": "210.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52021.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2021款",
+      "trim": "2021款 S8L 4.0TFSI quattro",
+      "spec_id": "47267",
+      "price": "207.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47267.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2016款",
+      "trim": "2016款 S8 4.0TFSI quattro",
+      "spec_id": "25201",
+      "price": "198.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25201.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2014款",
+      "trim": "2014款 S8 4.0TFSI quattro",
+      "spec_id": "16732",
+      "price": "198.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16732.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2013款",
+      "trim": "2013款 S8 4.0TFSI quattro",
+      "spec_id": "10768",
+      "price": "198.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10768.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2009款",
+      "trim": "2009款 S8 5.2 FSI quattro",
+      "spec_id": "4687",
+      "price": "198.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4687.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2008款",
+      "trim": "2008款 S8 5.2FSI quattro",
+      "spec_id": "3519",
+      "price": "165.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3519.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2739",
+      "series": "奥迪S8",
+      "year": "2007款",
+      "trim": "2007款 S8 5.2",
+      "spec_id": "1905",
+      "price": "170.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1905.html"
+    }
+  ]
+}

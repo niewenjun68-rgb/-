@@ -1,0 +1,50 @@
+{
+  "source": "autohome",
+  "series_id": "2264",
+  "series": "奥迪Q3(进口)",
+  "fetched_at": "2026-10-27T03:00:41.687Z",
+  "count": 4,
+  "pages": 7,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2264",
+      "series": "奥迪Q3(进口)",
+      "year": "2015款",
+      "trim": "2015款 40 TFSI quattro 越野型",
+      "spec_id": "19647",
+      "price": "42.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19647.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2264",
+      "series": "奥迪Q3(进口)",
+      "year": "2012款",
+      "trim": "2012款 35 TFSI quattro 舒适型",
+      "spec_id": "13467",
+      "price": "37.70万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13467.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2264",
+      "series": "奥迪Q3(进口)",
+      "year": "2012款",
+      "trim": "2012款 40 TFSI quattro 运动型",
+      "spec_id": "13466",
+      "price": "45.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13466.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2264",
+      "series": "奥迪Q3(进口)",
+      "year": "2012款",
+      "trim": "2012款 40 TFSI quattro 越野型",
+      "spec_id": "13468",
+      "price": "47.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13468.html"
+    }
+  ]
+}

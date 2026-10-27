@@ -1,0 +1,50 @@
+{
+  "source": "autohome",
+  "series_id": "8105",
+  "series": "奥迪A6L e-tron",
+  "fetched_at": "2026-10-27T02:54:59.097Z",
+  "count": 4,
+  "pages": 14,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "8105",
+      "series": "奥迪A6L e-tron",
+      "year": "电动 292马力",
+      "trim": "2026款 长续航版",
+      "spec_id": "73834",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73834.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8105",
+      "series": "奥迪A6L e-tron",
+      "year": "电动 360马力",
+      "trim": "2026款 超长续航版",
+      "spec_id": "72705",
+      "price": "34.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72705.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8105",
+      "series": "奥迪A6L e-tron",
+      "year": "电动 354马力",
+      "trim": "2026款 首发乾崑智驾版",
+      "spec_id": "75885",
+      "price": "36.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75885.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8105",
+      "series": "奥迪A6L e-tron",
+      "year": "电动 551马力",
+      "trim": "2026款 quattro 乾崑智驾版",
+      "spec_id": "77020",
+      "price": "43.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77020.html"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "source": "autohome",
+  "series_id": "3230",
+  "series": "宝马2系(进口)",
+  "fetched_at": "2026-10-27T03:04:20.380Z",
+  "count": 21,
+  "pages": 16,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2.0升 涡轮增压 184马力",
+      "trim": "2026款 225i M运动曜夜套装",
+      "spec_id": "76467",
+      "price": "28.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76467.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2025款",
+      "trim": "2025款 225i M运动曜夜套装",
+      "spec_id": "69025",
+      "price": "28.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69025.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2023款",
+      "trim": "2023款 225i 四门轿跑车 M运动套装",
+      "spec_id": "61604",
+      "price": "27.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61604.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2023款",
+      "trim": "2023款 改款 225i 四门轿跑车 M运动曜夜套装",
+      "spec_id": "65582",
+      "price": "29.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65582.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2023款",
+      "trim": "2023款 225i 四门轿跑车 M运动曜夜套装",
+      "spec_id": "61605",
+      "price": "29.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61605.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2023款",
+      "trim": "2023款 225i M运动曜夜套装",
+      "spec_id": "59546",
+      "price": "30.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59546.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2022款",
+      "trim": "2022款 225i M运动曜夜套装",
+      "spec_id": "54344",
+      "price": "29.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54344.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2021款",
+      "trim": "2021款 225i 四门轿跑车 M运动套装",
+      "spec_id": "49451",
+      "price": "26.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49451.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2021款",
+      "trim": "2021款 225i 四门轿跑车 M运动曜夜套装",
+      "spec_id": "49452",
+      "price": "28.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49452.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2021款",
+      "trim": "2021款 225i 四门轿跑车 M运动曜夜套装Pro",
+      "spec_id": "49010",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49010.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2019款",
+      "trim": "2019款 225i 敞篷轿跑车 运动设计套装",
+      "spec_id": "39862",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/39862.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2019款",
+      "trim": "2019款 225i 敞篷轿跑车 尊享型 M运动套装",
+      "spec_id": "39863",
+      "price": "33.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/39863.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2019款",
+      "trim": "2019款 225i 运动设计套装",
+      "spec_id": "39860",
+      "price": "26.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/39860.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2019款",
+      "trim": "2019款 225i 尊享型 M运动套装",
+      "spec_id": "39861",
+      "price": "29.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/39861.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 220i 运动设计套装",
+      "spec_id": "32160",
+      "price": "24.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32160.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 220i 敞篷轿跑车 运动设计套装",
+      "spec_id": "32165",
+      "price": "29.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32165.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 225i M运动型",
+      "spec_id": "32161",
+      "price": "28.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32161.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 225i 尊享型 M运动套装",
+      "spec_id": "32162",
+      "price": "31.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32162.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 225i 敞篷轿跑车 M运动型",
+      "spec_id": "32166",
+      "price": "33.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32166.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 225i 敞篷轿跑车 尊享型 M运动套装",
+      "spec_id": "32167",
+      "price": "37.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32167.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3230",
+      "series": "宝马2系(进口)",
+      "year": "2018款",
+      "trim": "2018款 M240i",
+      "spec_id": "32164",
+      "price": "44.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32164.html"
+    }
+  ]
+}

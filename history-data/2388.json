@@ -1,0 +1,110 @@
+{
+  "source": "autohome",
+  "series_id": "2388",
+  "series": "宝马i3(进口) (停售)",
+  "fetched_at": "2026-10-27T03:06:42.547Z",
+  "count": 10,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2020款",
+      "trim": "2020款 快充畅行款",
+      "spec_id": "43861",
+      "price": "30.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43861.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2019款",
+      "trim": "2019款 快充版",
+      "spec_id": "38408",
+      "price": "33.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38408.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2018款",
+      "trim": "2018款 豪华型",
+      "spec_id": "33618",
+      "price": "33.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33618.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2018款",
+      "trim": "2018款 增程型",
+      "spec_id": "33619",
+      "price": "40.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33619.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2016款",
+      "trim": "2016款 升级款时尚型",
+      "spec_id": "27552",
+      "price": "42.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27552.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2016款",
+      "trim": "2016款 升级款豪华型",
+      "spec_id": "27550",
+      "price": "45.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27550.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2016款",
+      "trim": "2016款 升级款增程型",
+      "spec_id": "27553",
+      "price": "52.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27553.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2015款",
+      "trim": "2015款 时尚型",
+      "spec_id": "23735",
+      "price": "41.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23735.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2014款",
+      "trim": "2014款 豪华型",
+      "spec_id": "19160",
+      "price": "44.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19160.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2388",
+      "series": "宝马i3(进口) (停售)",
+      "year": "2014款",
+      "trim": "2014款 增程型",
+      "spec_id": "16585",
+      "price": "51.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16585.html"
+    }
+  ]
+}

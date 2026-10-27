@@ -1,0 +1,380 @@
+{
+  "source": "autohome",
+  "series_id": "373",
+  "series": "宝马1系(进口)",
+  "fetched_at": "2026-10-27T03:06:00.349Z",
+  "count": 37,
+  "pages": 24,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2018款",
+      "trim": "2018款 118i 领先型",
+      "spec_id": "32149",
+      "price": "23.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32149.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2018款",
+      "trim": "2018款 118i 运动设计套装",
+      "spec_id": "32150",
+      "price": "24.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32150.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2018款",
+      "trim": "2018款 120i M运动套装",
+      "spec_id": "32151",
+      "price": "27.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32151.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2018款",
+      "trim": "2018款 125i M运动套装",
+      "spec_id": "32152",
+      "price": "33.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32152.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2018款",
+      "trim": "2018款 M140i",
+      "spec_id": "32153",
+      "price": "42.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32153.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 118i 领先型",
+      "spec_id": "24834",
+      "price": "25.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24834.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 118i 都市设计套装",
+      "spec_id": "24835",
+      "price": "27.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24835.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 120i 领先型",
+      "spec_id": "28204",
+      "price": "29.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/28204.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 120i 运动设计套装",
+      "spec_id": "28205",
+      "price": "30.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/28205.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 125i M 运动型",
+      "spec_id": "28242",
+      "price": "37.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/28242.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2016款",
+      "trim": "2016款 M140i",
+      "spec_id": "26509",
+      "price": "46.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/26509.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 118i 领先型",
+      "spec_id": "23055",
+      "price": "25.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23055.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 118i 都市设计套装",
+      "spec_id": "23065",
+      "price": "27.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23065.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 120i 领先型",
+      "spec_id": "22963",
+      "price": "29.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/22963.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 120i 运动设计套装",
+      "spec_id": "23064",
+      "price": "30.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23064.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 125i M 运动型",
+      "spec_id": "21464",
+      "price": "37.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21464.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2015款",
+      "trim": "2015款 M135i",
+      "spec_id": "22084",
+      "price": "46.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/22084.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 116i 领先型",
+      "spec_id": "15989",
+      "price": "26.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15989.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 116i 都市型",
+      "spec_id": "15990",
+      "price": "28.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15990.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 118i 领先型",
+      "spec_id": "15991",
+      "price": "29.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15991.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2011款",
+      "trim": "2011款 120i 敞篷轿跑车",
+      "spec_id": "8935",
+      "price": "36.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/8935.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2011款",
+      "trim": "2011款 120i 双门轿跑车",
+      "spec_id": "8934",
+      "price": "32.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/8934.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 118i 运动型",
+      "spec_id": "15992",
+      "price": "31.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15992.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 116i 手动挡",
+      "spec_id": "12891",
+      "price": "24.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/12891.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 116i 领先型",
+      "spec_id": "12890",
+      "price": "25.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/12890.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 116i 都市型",
+      "spec_id": "11555",
+      "price": "27.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11555.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 118i 领先型",
+      "spec_id": "12889",
+      "price": "28.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/12889.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 118i 运动型",
+      "spec_id": "10315",
+      "price": "30.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10315.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2010款",
+      "trim": "2010款 120i巧克力限量版",
+      "spec_id": "7089",
+      "price": "29.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7089.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2010款",
+      "trim": "2010款 120i运动限量版",
+      "spec_id": "8206",
+      "price": "29.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/8206.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2008款",
+      "trim": "2008款 120i 手动挡",
+      "spec_id": "3936",
+      "price": "27.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3936.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2008款",
+      "trim": "2008款 120i 自动挡",
+      "spec_id": "1383",
+      "price": "28.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1383.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 125i 运动型",
+      "spec_id": "15993",
+      "price": "37.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15993.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2012款",
+      "trim": "2012款 125i 运动型",
+      "spec_id": "12888",
+      "price": "37.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/12888.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2008款",
+      "trim": "2008款 130i 自动挡",
+      "spec_id": "1857",
+      "price": "44.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1857.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 M135i 5门版",
+      "spec_id": "14357",
+      "price": "49.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14357.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "373",
+      "series": "宝马1系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 M135i 5门版",
+      "spec_id": "15994",
+      "price": "50.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15994.html"
+    }
+  ]
+}

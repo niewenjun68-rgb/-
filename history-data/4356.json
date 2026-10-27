@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "4356",
+  "series": "宝马X1新能源 (停售)",
+  "fetched_at": "2026-10-27T03:03:56.038Z",
+  "count": 6,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2021款",
+      "trim": "2021款 xDrive30Le 尊享型",
+      "spec_id": "47823",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47823.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2020款",
+      "trim": "2020款 xDrive30Le 尊享型",
+      "spec_id": "41616",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41616.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2019款",
+      "trim": "2019款 xDrive25Le 豪华型",
+      "spec_id": "35676",
+      "price": "39.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/35676.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2019款",
+      "trim": "2019款 xDrive25Le 里程升级版",
+      "spec_id": "38407",
+      "price": "39.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38407.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2018款",
+      "trim": "2018款 xDrive25Le 豪华型",
+      "spec_id": "31154",
+      "price": "39.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31154.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4356",
+      "series": "宝马X1新能源 (停售)",
+      "year": "2017款",
+      "trim": "2017款 xDrive25Le",
+      "spec_id": "29623",
+      "price": "39.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/29623.html"
+    }
+  ]
+}

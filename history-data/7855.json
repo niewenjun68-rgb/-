@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "7855",
+  "series": "奥迪A5L",
+  "fetched_at": "2026-10-27T02:54:41.693Z",
+  "count": 6,
+  "pages": 19,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2.0升 涡轮增压 170马力",
+      "trim": "2026款 2.0T 运动版",
+      "spec_id": "74133",
+      "price": "25.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74133.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2026款 2.0T 运动版 Plus",
+      "spec_id": "69747",
+      "price": "27.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69747.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2026款 2.0T 乾崑智驾版",
+      "spec_id": "72273",
+      "price": "30.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72273.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2026款 2.0T 运动版 quattro",
+      "spec_id": "73537",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73537.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2.0升 发动机:272马力 电动机:24马力",
+      "trim": "2026款 2.0T 全域智混版 quattro",
+      "spec_id": "73534",
+      "price": "34.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73534.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7855",
+      "series": "奥迪A5L",
+      "year": "2026款",
+      "trim": "2026款 2.0T 燃擎星驰版",
+      "spec_id": "75795",
+      "price": "28.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75795.html"
+    }
+  ]
+}

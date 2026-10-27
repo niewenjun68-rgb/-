@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "5480",
+  "series": "宝马i4",
+  "fetched_at": "2026-10-27T03:04:34.123Z",
+  "count": 8,
+  "pages": 6,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "电动 286马力",
+      "trim": "2026款 eDrive35",
+      "spec_id": "77317",
+      "price": "34.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77317.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "电动 340马力",
+      "trim": "2026款 eDrive40",
+      "spec_id": "77318",
+      "price": "38.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77318.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2025款",
+      "trim": "2025款 eDrive35",
+      "spec_id": "70764",
+      "price": "42.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70764.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2025款",
+      "trim": "2025款 eDrive40",
+      "spec_id": "68076",
+      "price": "46.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68076.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2023款",
+      "trim": "2023款 eDrive35",
+      "spec_id": "61699",
+      "price": "42.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61699.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2023款",
+      "trim": "2023款 eDrive40",
+      "spec_id": "68817",
+      "price": "46.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68817.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2022款",
+      "trim": "2022款 eDrive40",
+      "spec_id": "51513",
+      "price": "46.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51513.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5480",
+      "series": "宝马i4",
+      "year": "2022款",
+      "trim": "2022款 M50",
+      "spec_id": "51514",
+      "price": "54.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51514.html"
+    }
+  ]
+}

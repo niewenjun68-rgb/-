@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "2732",
+  "series": "奥迪S4",
+  "fetched_at": "2026-10-27T02:57:55.125Z",
+  "count": 8,
+  "pages": 20,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "3.0升 涡轮增压 354马力",
+      "trim": "2024款 S4 3.0TFSI",
+      "spec_id": "64252",
+      "price": "48.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64252.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "3.0升 涡轮增压 354马力",
+      "trim": "2025款 S4 Avant 3.0TFSI",
+      "spec_id": "72323",
+      "price": "52.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72323.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "3.0升 涡轮增压 354马力",
+      "trim": "2024款 S4 Avant 3.0TFSI",
+      "spec_id": "64253",
+      "price": "52.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64253.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "2023款",
+      "trim": "2023款 S4 3.0TFSI",
+      "spec_id": "60055",
+      "price": "48.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60055.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "2023款",
+      "trim": "2023款 S4 Avant 3.0TFSI",
+      "spec_id": "60977",
+      "price": "52.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60977.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "2022款",
+      "trim": "2022款 S4 3.0TFSI",
+      "spec_id": "51596",
+      "price": "48.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51596.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "2020款",
+      "trim": "2020款 S4 3.0TFSI",
+      "spec_id": "47208",
+      "price": "46.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47208.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2732",
+      "series": "奥迪S4",
+      "year": "2018款",
+      "trim": "2018款 S4 3.0TFSI",
+      "spec_id": "23869",
+      "price": "45.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23869.html"
+    }
+  ]
+}

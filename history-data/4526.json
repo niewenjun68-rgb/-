@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "4526",
+  "series": "奥迪A6L新能源 (停售)",
+  "fetched_at": "2026-10-27T02:56:20.312Z",
+  "count": 3,
+  "pages": 7,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4526",
+      "series": "奥迪A6L新能源 (停售)",
+      "year": "2022款",
+      "trim": "2022款 55 TFSI e quattro",
+      "spec_id": "58337",
+      "price": "50.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/58337.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4526",
+      "series": "奥迪A6L新能源 (停售)",
+      "year": "2020款",
+      "trim": "2020款 55 TFSI e quattro",
+      "spec_id": "42454",
+      "price": "50.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42454.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4526",
+      "series": "奥迪A6L新能源 (停售)",
+      "year": "2018款",
+      "trim": "2018款 40 e-tron",
+      "spec_id": "31521",
+      "price": "45.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31521.html"
+    }
+  ]
+}

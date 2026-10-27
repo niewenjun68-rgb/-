@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "2738",
+  "series": "奥迪S7",
+  "fetched_at": "2026-10-27T02:58:48.849Z",
+  "count": 8,
+  "pages": 11,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 2.9 TFSI quattro",
+      "spec_id": "65820",
+      "price": "103.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65820.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2023款",
+      "trim": "2023款 2.9 TFSI quattro",
+      "spec_id": "57861",
+      "price": "103.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/57861.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2023款",
+      "trim": "2023款 2.9 TFSI quattro 竞技限量版",
+      "spec_id": "65055",
+      "price": "108.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65055.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2022款",
+      "trim": "2022款 2.9 TFSI quattro",
+      "spec_id": "52020",
+      "price": "103.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52020.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2020款",
+      "trim": "2020款 2.9 TFSI quattro",
+      "spec_id": "43394",
+      "price": "100.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43394.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2018款",
+      "trim": "2018款 4.0 TFSI quattro",
+      "spec_id": "31520",
+      "price": "123.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31520.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2016款",
+      "trim": "2016款 4.0 TFSI quattro",
+      "spec_id": "19241",
+      "price": "135.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19241.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2738",
+      "series": "奥迪S7",
+      "year": "2013款",
+      "trim": "2013款 4.0 TFSI quattro",
+      "spec_id": "10772",
+      "price": "134.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10772.html"
+    }
+  ]
+}

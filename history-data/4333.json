@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "4333",
+  "series": "比亚迪F3新能源 (停售)",
+  "fetched_at": "2026-10-27T02:57:24.681Z",
+  "count": 2,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4333",
+      "series": "比亚迪F3新能源 (停售)",
+      "year": "2010款",
+      "trim": "2010款 DM 低碳版",
+      "spec_id": "7417",
+      "price": "16.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7417.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4333",
+      "series": "比亚迪F3新能源 (停售)",
+      "year": "2008款",
+      "trim": "2008款 DM 双模电动车",
+      "spec_id": "4313",
+      "price": "14.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4313.html"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "4348",
+  "series": "宝马X5新能源(进口)",
+  "fetched_at": "2026-10-27T03:06:40.250Z",
+  "count": 6,
+  "pages": 8,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2022款",
+      "trim": "2022款 xDrive45e M运动套装",
+      "spec_id": "54734",
+      "price": "85.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54734.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2021款",
+      "trim": "2021款 xDrive45e M运动套装",
+      "spec_id": "48365",
+      "price": "85.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48365.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2021款",
+      "trim": "2021款 改款 xDrive45e M运动套装",
+      "spec_id": "51363",
+      "price": "85.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51363.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2020款",
+      "trim": "2020款 xDrive45e M运动套装",
+      "spec_id": "43756",
+      "price": "84.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43756.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2017款",
+      "trim": "2016款 xDrive40e",
+      "spec_id": "21998",
+      "price": "92.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21998.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4348",
+      "series": "宝马X5新能源(进口)",
+      "year": "2017款",
+      "trim": "2017款 xDrive40e",
+      "spec_id": "28338",
+      "price": "85.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/28338.html"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "5955",
+  "series": "比亚迪e9",
+  "fetched_at": "2026-10-27T02:56:47.094Z",
+  "count": 3,
+  "pages": 6,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5955",
+      "series": "比亚迪e9",
+      "year": "电动 184马力",
+      "trim": "2025款 506 豪华版",
+      "spec_id": "73582",
+      "price": "16.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73582.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5955",
+      "series": "比亚迪e9",
+      "year": "2022款",
+      "trim": "2022款 商务版",
+      "spec_id": "60687",
+      "price": "24.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60687.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5955",
+      "series": "比亚迪e9",
+      "year": "2021款",
+      "trim": "2021款 商务版",
+      "spec_id": "48687",
+      "price": "23.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48687.html"
+    }
+  ]
+}

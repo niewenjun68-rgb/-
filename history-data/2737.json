@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "2737",
+  "series": "奥迪RS 6",
+  "fetched_at": "2026-10-27T03:01:41.061Z",
+  "count": 8,
+  "pages": 16,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "4.0升 双涡轮增压 630马力",
+      "trim": "2025款 RS 6 Avant GT",
+      "spec_id": "66639",
+      "price": "190.66万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66639.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "4.0升 双涡轮增压 630马力",
+      "trim": "2025款 RS 6 4.0T Avant performance",
+      "spec_id": "74851",
+      "price": "145.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74851.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2024款",
+      "trim": "2024款 RS 6 4.0T Avant performance",
+      "spec_id": "66265",
+      "price": "145.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66265.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2022款",
+      "trim": "2022款 RS 6 4.0T Avant",
+      "spec_id": "55119",
+      "price": "145.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55119.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2021款",
+      "trim": "2021款 RS 6 4.0T Avant",
+      "spec_id": "49333",
+      "price": "142.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49333.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2021款",
+      "trim": "2021款 RS 6 4.0T Avant 尊享版",
+      "spec_id": "49700",
+      "price": "177.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49700.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2018款",
+      "trim": "2018款 RS 6 4.0T Avant尊享运动限量版",
+      "spec_id": "35333",
+      "price": "135.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/35333.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2737",
+      "series": "奥迪RS 6",
+      "year": "2016款",
+      "trim": "2016款 RS 6 4.0T Avant",
+      "spec_id": "24290",
+      "price": "139.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24290.html"
+    }
+  ]
+}

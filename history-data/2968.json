@@ -1,0 +1,300 @@
+{
+  "source": "autohome",
+  "series_id": "2968",
+  "series": "宝马4系",
+  "fetched_at": "2026-10-27T03:04:31.514Z",
+  "count": 29,
+  "pages": 27,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 184马力",
+      "trim": "2026款 425i M运动套装",
+      "spec_id": "77311",
+      "price": "34.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77311.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 184马力",
+      "trim": "2026款 425i Gran Coupe M运动套装",
+      "spec_id": "77313",
+      "price": "34.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77313.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 184马力",
+      "trim": "2026款 425i 敞篷M运动套装",
+      "spec_id": "77315",
+      "price": "44.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77315.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 430i M运动曜夜套装",
+      "spec_id": "77312",
+      "price": "38.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77312.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 锋芒限量版",
+      "spec_id": "77386",
+      "price": "41.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77386.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 430i Gran Coupe M运动曜夜套装",
+      "spec_id": "77314",
+      "price": "38.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77314.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 Gran Coupe 锋芒限量版",
+      "spec_id": "77388",
+      "price": "41.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77388.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 430i 敞篷M运动曜夜套装",
+      "spec_id": "77316",
+      "price": "48.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77316.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2.0升 涡轮增压 245马力",
+      "trim": "2026款 敞篷锋芒限量版",
+      "spec_id": "77387",
+      "price": "51.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77387.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 425i M运动套装",
+      "spec_id": "68088",
+      "price": "38.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68088.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 425i Gran Coupe M运动套装",
+      "spec_id": "69183",
+      "price": "38.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69183.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 425i 敞篷M运动套装",
+      "spec_id": "68089",
+      "price": "48.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68089.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 430i M运动曜夜套装",
+      "spec_id": "68086",
+      "price": "42.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68086.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 430i Gran Coupe M运动曜夜套装",
+      "spec_id": "69184",
+      "price": "42.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69184.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2024款",
+      "trim": "2024款 430i 敞篷M运动曜夜套装",
+      "spec_id": "68087",
+      "price": "52.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68087.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i M运动套装",
+      "spec_id": "62537",
+      "price": "37.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62537.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i M运动曜夜套装",
+      "spec_id": "62538",
+      "price": "41.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62538.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i 敞篷M运动套装",
+      "spec_id": "62540",
+      "price": "48.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62540.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i 敞篷M运动曜夜套装",
+      "spec_id": "62541",
+      "price": "51.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62541.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i Gran Coupe M运动套装",
+      "spec_id": "62543",
+      "price": "38.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62543.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 425i Gran Coupe M运动曜夜套装",
+      "spec_id": "62544",
+      "price": "41.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62544.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 430i M运动曜夜套装",
+      "spec_id": "62539",
+      "price": "47.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62539.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 430i 敞篷M运动曜夜套装",
+      "spec_id": "62542",
+      "price": "57.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62542.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2023款",
+      "trim": "2023款 430i Gran Coupe M运动曜夜套装",
+      "spec_id": "62545",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62545.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2022款",
+      "trim": "2022款 425i Gran Coupe M运动套装",
+      "spec_id": "52661",
+      "price": "37.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52661.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2022款",
+      "trim": "2022款 425i Gran Coupe M运动曜夜套装",
+      "spec_id": "52662",
+      "price": "40.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52662.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2022款",
+      "trim": "2022款 425i M运动套装",
+      "spec_id": "54066",
+      "price": "37.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54066.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2022款",
+      "trim": "2022款 改款 425i M运动曜夜套装",
+      "spec_id": "56584",
+      "price": "40.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/56584.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2968",
+      "series": "宝马4系",
+      "year": "2022款",
+      "trim": "2022款 425i 敞篷M运动套装",
+      "spec_id": "54070",
+      "price": "47.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54070.html"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "6899",
+  "series": "奥迪SQ5 Sportback",
+  "fetched_at": "2026-10-27T02:59:15.198Z",
+  "count": 2,
+  "pages": 12,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "6899",
+      "series": "奥迪SQ5 Sportback",
+      "year": "3.0升 涡轮增压 354马力",
+      "trim": "2024款 3.0 TFSI quattro",
+      "spec_id": "67867",
+      "price": "63.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67867.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6899",
+      "series": "奥迪SQ5 Sportback",
+      "year": "2023款",
+      "trim": "2023款 3.0 TFSI quattro",
+      "spec_id": "59025",
+      "price": "63.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59025.html"
+    }
+  ]
+}

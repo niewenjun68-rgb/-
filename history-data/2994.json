@@ -1,0 +1,90 @@
+{
+  "source": "autohome",
+  "series_id": "2994",
+  "series": "奥迪RS 7",
+  "fetched_at": "2026-10-27T03:01:47.124Z",
+  "count": 8,
+  "pages": 13,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "4.0升 双涡轮增压 630马力",
+      "trim": "2025款 RS 7 4.0T Sportback performance",
+      "spec_id": "73543",
+      "price": "146.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73543.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2024款",
+      "trim": "2024款 RS 7 4.0T Sportback performance",
+      "spec_id": "66263",
+      "price": "146.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66263.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2022款",
+      "trim": "2022款 RS 7 4.0T Sportback",
+      "spec_id": "55118",
+      "price": "146.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55118.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2021款",
+      "trim": "2021款 RS 7 4.0T Sportback",
+      "spec_id": "41697",
+      "price": "144.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41697.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2021款",
+      "trim": "2021款 RS 7 4.0T Sportback 尊享版",
+      "spec_id": "49701",
+      "price": "172.23万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49701.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2016款",
+      "trim": "2016款 RS 7 4.0T Sportback",
+      "spec_id": "19314",
+      "price": "157.70万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19314.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2016款",
+      "trim": "2016款 RS 7 4.0T Sportback performance",
+      "spec_id": "24289",
+      "price": "153.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24289.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2994",
+      "series": "奥迪RS 7",
+      "year": "2014款",
+      "trim": "2014款 RS 7 4.0T Sportback",
+      "spec_id": "14861",
+      "price": "178.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14861.html"
+    }
+  ]
+}

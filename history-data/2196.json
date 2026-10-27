@@ -1,0 +1,60 @@
+{
+  "source": "autohome",
+  "series_id": "2196",
+  "series": "宝马M3",
+  "fetched_at": "2026-10-27T03:08:31.163Z",
+  "count": 5,
+  "pages": 37,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2196",
+      "series": "宝马M3",
+      "year": "3.0升 双涡轮增压 510马力",
+      "trim": "2024款 M3四门轿车 雷霆版",
+      "spec_id": "69060",
+      "price": "86.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69060.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2196",
+      "series": "宝马M3",
+      "year": "3.0升 双涡轮增压 530马力",
+      "trim": "2024款 M3四门轿车 M xDrive 雷霆版",
+      "spec_id": "69061",
+      "price": "91.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69061.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2196",
+      "series": "宝马M3",
+      "year": "3.0升 双涡轮增压 530马力",
+      "trim": "2026款 M3旅行版 M xDrive 雷霆版",
+      "spec_id": "75506",
+      "price": "94.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75506.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2196",
+      "series": "宝马M3",
+      "year": "3.0升 双涡轮增压 530马力",
+      "trim": "2026款 M3四门轿车 M xDrive 40周年限量版",
+      "spec_id": "77348",
+      "price": "103.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77348.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2196",
+      "series": "宝马M3",
+      "year": "3.0升 双涡轮增压 530马力",
+      "trim": "2026款 M3 旅行版 M xDrive 40周年限量版",
+      "spec_id": "77349",
+      "price": "106.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77349.html"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source": "autohome",
+  "series_id": "7787",
+  "series": "宝马M5新能源",
+  "fetched_at": "2026-10-27T03:08:53.742Z",
+  "count": 1,
+  "pages": 17,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7787",
+      "series": "宝马M5新能源",
+      "year": "4.4升 发动机:585马力 电动机:197马力",
+      "trim": "2025款 M5",
+      "spec_id": "68878",
+      "price": "146.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68878.html"
+    }
+  ]
+}

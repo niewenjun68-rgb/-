@@ -1,0 +1,60 @@
+{
+  "source": "autohome",
+  "series_id": "7413",
+  "series": "奥迪Q6L e-tron",
+  "fetched_at": "2026-10-27T02:55:49.013Z",
+  "count": 5,
+  "pages": 14,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7413",
+      "series": "奥迪Q6L e-tron",
+      "year": "电动 292马力",
+      "trim": "2026款 长续航版",
+      "spec_id": "77071",
+      "price": "27.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77071.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7413",
+      "series": "奥迪Q6L e-tron",
+      "year": "电动 279马力",
+      "trim": "2026款 超长续航 乾崑智驾版",
+      "spec_id": "77072",
+      "price": "33.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77072.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7413",
+      "series": "奥迪Q6L e-tron",
+      "year": "电动 279马力",
+      "trim": "2026款 超长续航版",
+      "spec_id": "65052",
+      "price": "36.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65052.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7413",
+      "series": "奥迪Q6L e-tron",
+      "year": "电动 279马力",
+      "trim": "2026款 首发领航版",
+      "spec_id": "73243",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73243.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7413",
+      "series": "奥迪Q6L e-tron",
+      "year": "电动 551马力",
+      "trim": "2026款 quattro 乾崑智驾版",
+      "spec_id": "77073",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77073.html"
+    }
+  ]
+}

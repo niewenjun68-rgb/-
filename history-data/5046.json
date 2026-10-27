@@ -1,0 +1,20 @@
+{
+  "source": "autohome",
+  "series_id": "5046",
+  "series": "奥迪e-tron GT (停售)",
+  "fetched_at": "2026-10-27T03:01:15.835Z",
+  "count": 1,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5046",
+      "series": "奥迪e-tron GT (停售)",
+      "year": "2023款",
+      "trim": "2023款 基本型",
+      "spec_id": "63692",
+      "price": "99.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63692.html"
+    }
+  ]
+}

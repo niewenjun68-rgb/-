@@ -1,0 +1,130 @@
+{
+  "source": "autohome",
+  "series_id": "509",
+  "series": "奥迪A6 (停售)",
+  "fetched_at": "2026-10-27T02:56:11.652Z",
+  "count": 12,
+  "pages": 18,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 1.8T 手动基本型",
+      "spec_id": "149",
+      "price": "34.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/149.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 1.8T 自动基本型",
+      "spec_id": "642",
+      "price": "36.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/642.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 1.8T 自动舒适型",
+      "spec_id": "643",
+      "price": "41.51万",
+      "config_url": "https://car.autohome.com.cn/config/spec/643.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.4L 手动基本型",
+      "spec_id": "984",
+      "price": "36.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/984.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.4L 自动基本型",
+      "spec_id": "985",
+      "price": "39.55万",
+      "config_url": "https://car.autohome.com.cn/config/spec/985.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.4L 豪华舒适型",
+      "spec_id": "148",
+      "price": "42.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/148.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.4L 技术领先型",
+      "spec_id": "644",
+      "price": "46.97万",
+      "config_url": "https://car.autohome.com.cn/config/spec/644.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.4L 行政版",
+      "spec_id": "1072",
+      "price": "51.62万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1072.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.8L 豪华型",
+      "spec_id": "646",
+      "price": "49.32万",
+      "config_url": "https://car.autohome.com.cn/config/spec/646.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.8L 技术领先型",
+      "spec_id": "647",
+      "price": "49.52万",
+      "config_url": "https://car.autohome.com.cn/config/spec/647.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 2.8L 行政版",
+      "spec_id": "1071",
+      "price": "54.17万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1071.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "509",
+      "series": "奥迪A6 (停售)",
+      "year": "2004款",
+      "trim": "2004款 1.8L 手动基本型",
+      "spec_id": "331",
+      "price": "30.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/331.html"
+    }
+  ]
+}

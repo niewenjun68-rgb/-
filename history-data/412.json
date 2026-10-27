@@ -1,0 +1,310 @@
+{
+  "source": "autohome",
+  "series_id": "412",
+  "series": "奥迪Q7",
+  "fetched_at": "2026-10-27T02:59:30.447Z",
+  "count": 30,
+  "pages": 22,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2.0升 涡轮增压 265马力",
+      "trim": "2026款 45 TFSI quattro S line黑武士型",
+      "spec_id": "77393",
+      "price": "60.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77393.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2.0升 涡轮增压 265马力",
+      "trim": "2026款 45 TFSI quattro S line运动型",
+      "spec_id": "77394",
+      "price": "63.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77394.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2.0升 涡轮增压 265马力",
+      "trim": "2025款 45 TFSI quattro S line黑武士型",
+      "spec_id": "70480",
+      "price": "60.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70480.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2.0升 涡轮增压 265马力",
+      "trim": "2025款 45 TFSI quattro S line运动型",
+      "spec_id": "73356",
+      "price": "63.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73356.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2026款 55 TFSI quattro S line运动型",
+      "spec_id": "77396",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77396.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2026款 55 TFSI quattro S line黑武士型",
+      "spec_id": "77395",
+      "price": "72.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77395.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2026款 55 TFSI quattro S line尊贵型",
+      "spec_id": "77397",
+      "price": "80.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77397.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2025款 55 TFSI quattro S line黑武士型",
+      "spec_id": "70481",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70481.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2025款 55 TFSI quattro S line运动型",
+      "spec_id": "70482",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70482.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2025款 55 TFSI quattro S line尊贵型",
+      "spec_id": "70483",
+      "price": "80.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70483.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2025款",
+      "trim": "2025款 55 TFSI quattro S line冰雪运动版",
+      "spec_id": "70931",
+      "price": "74.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70931.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2024款",
+      "trim": "2024款 45 TFSI quattro S line黑武士型",
+      "spec_id": "68679",
+      "price": "60.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68679.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2024款",
+      "trim": "2024款 45 TFSI quattro S line运动型",
+      "spec_id": "68680",
+      "price": "62.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68680.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2024款",
+      "trim": "2024款 55 TFSI quattro S line运动型",
+      "spec_id": "68681",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68681.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2024款",
+      "trim": "2024款 55 TFSI quattro S line尊贵型",
+      "spec_id": "68682",
+      "price": "80.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68682.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2023款",
+      "trim": "2023款 45 TFSI quattro S line运动型",
+      "spec_id": "60601",
+      "price": "63.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60601.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2023款",
+      "trim": "2023款 55 TFSI quattro S line运动型",
+      "spec_id": "60602",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60602.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2023款",
+      "trim": "2023款 55 TFSI quattro S line冰雪运动版",
+      "spec_id": "61338",
+      "price": "75.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61338.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2023款",
+      "trim": "2023款 55 TFSI quattro S 尊贵型",
+      "spec_id": "60603",
+      "price": "80.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60603.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2022款",
+      "trim": "2022款 45 TFSI quattro S line运动型",
+      "spec_id": "51945",
+      "price": "63.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51945.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2022款",
+      "trim": "2022款 45 TFSI quattro S line豪华型",
+      "spec_id": "51946",
+      "price": "73.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51946.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2022款",
+      "trim": "2022款 55 TFSI quattro S line运动型",
+      "spec_id": "51947",
+      "price": "70.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51947.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2022款",
+      "trim": "2022款 55 TFSI quattro S line冰雪运动版",
+      "spec_id": "53926",
+      "price": "75.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53926.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2022款",
+      "trim": "2022款 55 TFSI quattro S line尊贵型",
+      "spec_id": "51948",
+      "price": "80.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51948.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2021款",
+      "trim": "2021款 45 TFSI quattro S line运动型",
+      "spec_id": "48252",
+      "price": "68.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48252.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2021款",
+      "trim": "2021款 45 TFSI quattro S line豪华型",
+      "spec_id": "48253",
+      "price": "72.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48253.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2021款",
+      "trim": "2021款 55 TFSI quattro S line运动型",
+      "spec_id": "48254",
+      "price": "75.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48254.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2021款",
+      "trim": "2021款 55 TFSI quattro S line尊贵型",
+      "spec_id": "48255",
+      "price": "83.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48255.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2020款",
+      "trim": "2020款 45 TFSI quattro S line运动限量版",
+      "spec_id": "44920",
+      "price": "68.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/44920.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "412",
+      "series": "奥迪Q7",
+      "year": "2020款",
+      "trim": "2020款 45 TFSI quattro 致享专享版",
+      "spec_id": "44376",
+      "price": "69.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/44376.html"
+    }
+  ]
+}

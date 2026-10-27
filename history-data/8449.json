@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "8449",
+  "series": "奥迪E7X",
+  "fetched_at": "2026-10-27T03:02:27.652Z",
+  "count": 6,
+  "pages": 13,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 408马力",
+      "trim": "2026款 先锋型",
+      "spec_id": "77723",
+      "price": "26.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77723.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 408马力",
+      "trim": "2026款 先锋Pro型",
+      "spec_id": "75952",
+      "price": "29.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75952.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 408马力",
+      "trim": "2026款 先锋智能远航版",
+      "spec_id": "77724",
+      "price": "32.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77724.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 680马力",
+      "trim": "2026款 先锋quattro热爱版",
+      "spec_id": "78932",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78932.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 680马力",
+      "trim": "2026款 先锋quattro型",
+      "spec_id": "75953",
+      "price": "32.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75953.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "8449",
+      "series": "奥迪E7X",
+      "year": "电动 680马力",
+      "trim": "2026款 旗舰quattro型",
+      "spec_id": "75948",
+      "price": "35.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75948.html"
+    }
+  ]
+}

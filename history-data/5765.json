@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "5765",
+  "series": "奥迪e-tron (停售)",
+  "fetched_at": "2026-10-27T02:56:46.367Z",
+  "count": 3,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5765",
+      "series": "奥迪e-tron (停售)",
+      "year": "2021款",
+      "trim": "2021款 50 quattro 豪华型",
+      "spec_id": "50627",
+      "price": "54.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50627.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5765",
+      "series": "奥迪e-tron (停售)",
+      "year": "2021款",
+      "trim": "2021款 50 quattro 臻选型",
+      "spec_id": "50628",
+      "price": "58.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50628.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5765",
+      "series": "奥迪e-tron (停售)",
+      "year": "2021款",
+      "trim": "2021款 50 quattro 尊享型",
+      "spec_id": "45606",
+      "price": "64.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/45606.html"
+    }
+  ]
+}

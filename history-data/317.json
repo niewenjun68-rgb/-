@@ -1,0 +1,610 @@
+{
+  "source": "autohome",
+  "series_id": "317",
+  "series": "宝马3系(进口)",
+  "fetched_at": "2026-10-27T03:06:12.588Z",
+  "count": 60,
+  "pages": 28,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2017款",
+      "trim": "2017款 340i xDrive M运动型",
+      "spec_id": "27788",
+      "price": "68.40万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27788.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2016款",
+      "trim": "2016款 320i时尚型 旅行版",
+      "spec_id": "24996",
+      "price": "39.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24996.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2016款",
+      "trim": "2016款 320i运动设计套装 旅行版",
+      "spec_id": "24997",
+      "price": "46.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24997.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2016款",
+      "trim": "2016款 330i M运动型 旅行版",
+      "spec_id": "24998",
+      "price": "56.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24998.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2015款",
+      "trim": "2015款 ActiveHybrid 3",
+      "spec_id": "20229",
+      "price": "66.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20229.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2015款",
+      "trim": "2015款 335i xDrive",
+      "spec_id": "20228",
+      "price": "67.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20228.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2014款",
+      "trim": "2014款 320i运动设计套装",
+      "spec_id": "17282",
+      "price": "38.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17282.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2014款",
+      "trim": "2014款 328i运动设计套装",
+      "spec_id": "17280",
+      "price": "43.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17280.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2014款",
+      "trim": "2014款 328i M运动型",
+      "spec_id": "17283",
+      "price": "46.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17283.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2014款",
+      "trim": "2014款 335i xDrive",
+      "spec_id": "17285",
+      "price": "66.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17285.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2014款",
+      "trim": "2014款 ActiveHybrid 3",
+      "spec_id": "17286",
+      "price": "66.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17286.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 320i进取型",
+      "spec_id": "13394",
+      "price": "31.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13394.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 320i时尚型",
+      "spec_id": "13372",
+      "price": "33.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13372.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 320i运动设计套装",
+      "spec_id": "13371",
+      "price": "37.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13371.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 320i运动设计套装",
+      "spec_id": "15363",
+      "price": "37.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15363.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 320i时尚型 旅行版",
+      "spec_id": "16868",
+      "price": "39.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16868.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 320i运动设计套装 旅行版",
+      "spec_id": "16869",
+      "price": "46.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16869.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 328i运动设计套装",
+      "spec_id": "11120",
+      "price": "42.66万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11120.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 328i M运动型",
+      "spec_id": "14463",
+      "price": "46.06万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14463.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 328i运动设计套装",
+      "spec_id": "15364",
+      "price": "43.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15364.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 328i M运动型",
+      "spec_id": "15365",
+      "price": "46.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15365.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 335i xDrive",
+      "spec_id": "14496",
+      "price": "65.86万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14496.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 ActiveHybrid 3",
+      "spec_id": "11597",
+      "price": "66.16万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11597.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 改款 335i xDrive",
+      "spec_id": "15366",
+      "price": "66.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15366.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2012款",
+      "trim": "2012款 318i领先型",
+      "spec_id": "12155",
+      "price": "29.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/12155.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2013款",
+      "trim": "2013款 328i M运动型 旅行版",
+      "spec_id": "16870",
+      "price": "56.96万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16870.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 320i敞篷轿跑版",
+      "spec_id": "7450",
+      "price": "58.40万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7450.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 325i敞篷轿跑版",
+      "spec_id": "6574",
+      "price": "64.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6574.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 330i敞篷轿跑版",
+      "spec_id": "6575",
+      "price": "74.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6575.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 335i敞篷轿跑车",
+      "spec_id": "7018",
+      "price": "79.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7018.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 320i敞篷轿跑版",
+      "spec_id": "6573",
+      "price": "58.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6573.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 325i敞篷轿跑车",
+      "spec_id": "6882",
+      "price": "64.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6882.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 330i敞篷轿跑车",
+      "spec_id": "6884",
+      "price": "72.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6884.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2007款",
+      "trim": "2007款 325i敞篷轿跑车",
+      "spec_id": "3113",
+      "price": "64.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3113.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2007款",
+      "trim": "2007款 330i敞篷轿跑车",
+      "spec_id": "3114",
+      "price": "72.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3114.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 320i双门轿跑车",
+      "spec_id": "7449",
+      "price": "49.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7449.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 325i双门轿跑车",
+      "spec_id": "7451",
+      "price": "56.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7451.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 330i双门轿跑车",
+      "spec_id": "7452",
+      "price": "64.40万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7452.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 335i双门轿跑车",
+      "spec_id": "7017",
+      "price": "69.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7017.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 320i双门轿跑车",
+      "spec_id": "5537",
+      "price": "49.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5537.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 325i双门轿跑车",
+      "spec_id": "6881",
+      "price": "56.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6881.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 330i双门轿跑车",
+      "spec_id": "6883",
+      "price": "62.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6883.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2008款",
+      "trim": "2008款 330i双门轿跑车",
+      "spec_id": "4737",
+      "price": "62.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4737.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2007款",
+      "trim": "2007款 325i双门轿跑车",
+      "spec_id": "3115",
+      "price": "56.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3115.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2007款",
+      "trim": "2007款 330i双门轿跑车",
+      "spec_id": "3116",
+      "price": "62.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3116.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2004款",
+      "trim": "2004款 330Ci",
+      "spec_id": "1218",
+      "price": "63.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1218.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2010款",
+      "trim": "2010款 320i豪华型",
+      "spec_id": "7033",
+      "price": "37.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7033.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2006款",
+      "trim": "2006款 320i典雅型",
+      "spec_id": "2021",
+      "price": "29.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/2021.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2005款",
+      "trim": "2005款 E90 320i",
+      "spec_id": "1673",
+      "price": "24.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1673.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2012款",
+      "trim": "2012款 325i MT典雅型",
+      "spec_id": "11352",
+      "price": "39.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11352.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2011款",
+      "trim": "2011款 325i MT典雅型",
+      "spec_id": "8885",
+      "price": "39.10万",
+      "config_url": "https://car.autohome.com.cn/config/spec/8885.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2010款",
+      "trim": "2010款 325i豪华型",
+      "spec_id": "6968",
+      "price": "44.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6968.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 325i MT典雅型",
+      "spec_id": "4740",
+      "price": "38.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4740.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2008款",
+      "trim": "2008款 325i 6MT",
+      "spec_id": "3537",
+      "price": "39.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3537.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2008款",
+      "trim": "2008款 325i典雅型",
+      "spec_id": "3996",
+      "price": "39.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3996.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2005款",
+      "trim": "2005款 E90 325i",
+      "spec_id": "1839",
+      "price": "45.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1839.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2005款",
+      "trim": "2005款 330i",
+      "spec_id": "1370",
+      "price": "58.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1370.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2012款",
+      "trim": "2012款 335i",
+      "spec_id": "11353",
+      "price": "62.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11353.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2009款",
+      "trim": "2009款 335i",
+      "spec_id": "4381",
+      "price": "61.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4381.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "317",
+      "series": "宝马3系(进口)",
+      "year": "2010款",
+      "trim": "2010款 320i时尚型",
+      "spec_id": "24046",
+      "price": "34.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/24046.html"
+    }
+  ]
+}

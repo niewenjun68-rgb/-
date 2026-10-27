@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "4460",
+  "series": "奥迪Q7新能源",
+  "fetched_at": "2026-10-27T03:00:54.167Z",
+  "count": 2,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4460",
+      "series": "奥迪Q7新能源",
+      "year": "2019款",
+      "trim": "2019款 55 e-tron",
+      "spec_id": "37077",
+      "price": "79.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/37077.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4460",
+      "series": "奥迪Q7新能源",
+      "year": "2017款",
+      "trim": "2017款 45 e-tron",
+      "spec_id": "30620",
+      "price": "87.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/30620.html"
+    }
+  ]
+}

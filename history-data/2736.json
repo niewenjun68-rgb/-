@@ -1,0 +1,100 @@
+{
+  "source": "autohome",
+  "series_id": "2736",
+  "series": "奥迪S6",
+  "fetched_at": "2026-10-27T02:58:32.449Z",
+  "count": 9,
+  "pages": 11,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2025款 S6 2.9T",
+      "spec_id": "75555",
+      "price": "85.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75555.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 S6 2.9T",
+      "spec_id": "67100",
+      "price": "85.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67100.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2023款",
+      "trim": "2023款 S6 2.9T",
+      "spec_id": "61540",
+      "price": "85.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61540.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2022款",
+      "trim": "2022款 S6 2.9T",
+      "spec_id": "53245",
+      "price": "94.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53245.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2020款",
+      "trim": "2020款 S6 2.9T",
+      "spec_id": "47268",
+      "price": "92.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47268.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2018款",
+      "trim": "2018款 S6 4.0TFSI",
+      "spec_id": "31532",
+      "price": "90.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31532.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2017款",
+      "trim": "2017款 S6 4.0TFSI",
+      "spec_id": "27822",
+      "price": "99.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27822.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2016款",
+      "trim": "2016款 S6 4.0TFSI",
+      "spec_id": "20239",
+      "price": "99.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20239.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2736",
+      "series": "奥迪S6",
+      "year": "2013款",
+      "trim": "2013款 S6 4.0TFSI",
+      "spec_id": "10771",
+      "price": "105.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10771.html"
+    }
+  ]
+}

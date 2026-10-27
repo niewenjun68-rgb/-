@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "997",
+  "series": "比亚迪G3R (停售)",
+  "fetched_at": "2026-10-27T02:57:36.577Z",
+  "count": 2,
+  "pages": 13,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "997",
+      "series": "比亚迪G3R (停售)",
+      "year": "2011款",
+      "trim": "2011款 1.5L 手动尚雅型",
+      "spec_id": "9678",
+      "price": "5.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/9678.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "997",
+      "series": "比亚迪G3R (停售)",
+      "year": "2011款",
+      "trim": "2011款 1.8L CVT尚雅型",
+      "spec_id": "6518",
+      "price": "7.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/6518.html"
+    }
+  ]
+}

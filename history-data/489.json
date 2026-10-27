@@ -1,0 +1,50 @@
+{
+  "source": "autohome",
+  "series_id": "489",
+  "series": "比亚迪S8 (停售)",
+  "fetched_at": "2026-10-27T02:58:43.978Z",
+  "count": 4,
+  "pages": 10,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "489",
+      "series": "比亚迪S8 (停售)",
+      "year": "2009款",
+      "trim": "2009款 2.0L 手动尊贵型",
+      "spec_id": "3003",
+      "price": "16.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3003.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "489",
+      "series": "比亚迪S8 (停售)",
+      "year": "2009款",
+      "trim": "2009款 2.0L 手动旗舰型",
+      "spec_id": "2665",
+      "price": "19.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/2665.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "489",
+      "series": "比亚迪S8 (停售)",
+      "year": "2009款",
+      "trim": "2009款 2.0L 自动尊贵型",
+      "spec_id": "3004",
+      "price": "18.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3004.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "489",
+      "series": "比亚迪S8 (停售)",
+      "year": "2009款",
+      "trim": "2009款 2.0L 自动旗舰型",
+      "spec_id": "5680",
+      "price": "20.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5680.html"
+    }
+  ]
+}

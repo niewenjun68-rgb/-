@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "3283",
+  "series": "比亚迪G5 (停售)",
+  "fetched_at": "2026-10-27T02:57:41.028Z",
+  "count": 6,
+  "pages": 10,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TI 手动豪华型",
+      "spec_id": "20342",
+      "price": "7.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20342.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TI 手动尊贵型",
+      "spec_id": "20341",
+      "price": "8.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20341.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TI 手动旗舰型",
+      "spec_id": "20340",
+      "price": "9.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20340.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TID 自动豪华型",
+      "spec_id": "20339",
+      "price": "8.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20339.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TID 自动尊贵型",
+      "spec_id": "20338",
+      "price": "9.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/20338.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3283",
+      "series": "比亚迪G5 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TID 自动旗舰型",
+      "spec_id": "17765",
+      "price": "10.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17765.html"
+    }
+  ]
+}

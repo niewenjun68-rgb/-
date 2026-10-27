@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "675",
+  "series": "宝马X1(进口)",
+  "fetched_at": "2026-10-27T03:06:19.443Z",
+  "count": 6,
+  "pages": 12,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2012款",
+      "trim": "2012款 sDrive18i豪华型",
+      "spec_id": "26017",
+      "price": "36.70万",
+      "config_url": "https://car.autohome.com.cn/config/spec/26017.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2012款",
+      "trim": "2012款 xDrive20i",
+      "spec_id": "11651",
+      "price": "44.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11651.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2012款",
+      "trim": "2012款 xDrive28i",
+      "spec_id": "9374",
+      "price": "55.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/9374.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2010款",
+      "trim": "2010款 sDrive18i豪华型",
+      "spec_id": "7528",
+      "price": "36.70万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7528.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2010款",
+      "trim": "2010款 xDrive25i",
+      "spec_id": "7529",
+      "price": "47.30万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7529.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "675",
+      "series": "宝马X1(进口)",
+      "year": "2010款",
+      "trim": "2010款 xDrive28i",
+      "spec_id": "4479",
+      "price": "56.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4479.html"
+    }
+  ]
+}

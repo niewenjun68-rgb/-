@@ -1,0 +1,230 @@
+{
+  "source": "autohome",
+  "series_id": "370",
+  "series": "奥迪A3(进口)",
+  "fetched_at": "2026-10-27T03:00:26.190Z",
+  "count": 22,
+  "pages": 22,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2017款",
+      "trim": "2017款 Cabriolet 40 TFSI",
+      "spec_id": "30309",
+      "price": "33.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/30309.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2015款",
+      "trim": "2015款 Cabriolet 40 TFSI",
+      "spec_id": "21572",
+      "price": "36.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21572.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2015款",
+      "trim": "2015款 Sportback 45 TFSI S line 运动型",
+      "spec_id": "21573",
+      "price": "29.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21573.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2015款",
+      "trim": "2015款 Limousine 45 TFSI S line 豪华型",
+      "spec_id": "21627",
+      "price": "30.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21627.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2014款",
+      "trim": "2014款 Sportback 40 TFSI S line 舒适型",
+      "spec_id": "18528",
+      "price": "26.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18528.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2014款",
+      "trim": "2014款 Sportback 40 TFSI S line 豪华型",
+      "spec_id": "18500",
+      "price": "32.43万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18500.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2014款",
+      "trim": "2014款 Limousine 40 TFSI S line 舒适型",
+      "spec_id": "18643",
+      "price": "27.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18643.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2014款",
+      "trim": "2014款 Limousine 40 TFSI S line 豪华型",
+      "spec_id": "18513",
+      "price": "33.43万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18513.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2013款",
+      "trim": "2013款 Sportback 35 TFSI 豪华型",
+      "spec_id": "14311",
+      "price": "30.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14311.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2013款",
+      "trim": "2013款 Sportback 35 TFSI 尊贵型",
+      "spec_id": "14312",
+      "price": "32.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14312.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2013款",
+      "trim": "2013款 Sportback 30 TFSI 技术型",
+      "spec_id": "14308",
+      "price": "25.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14308.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2013款",
+      "trim": "2013款 Sportback 30 TFSI 舒适型",
+      "spec_id": "14309",
+      "price": "26.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14309.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2013款",
+      "trim": "2013款 Sportback 30 TFSI 豪华型",
+      "spec_id": "14310",
+      "price": "28.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/14310.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2012款",
+      "trim": "2012款 Sportback 1.8T 豪华型",
+      "spec_id": "10581",
+      "price": "30.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10581.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2012款",
+      "trim": "2012款 Sportback 1.8T 尊贵型",
+      "spec_id": "7489",
+      "price": "32.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7489.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2012款",
+      "trim": "2012款 Sportback 1.4T 技术型",
+      "spec_id": "10584",
+      "price": "25.50万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10584.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2012款",
+      "trim": "2012款 Sportback 1.4T 舒适型",
+      "spec_id": "10583",
+      "price": "26.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10583.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2012款",
+      "trim": "2012款 Sportback 1.4T 豪华型",
+      "spec_id": "10582",
+      "price": "28.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/10582.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2010款",
+      "trim": "2010款 Sportback 1.8T 豪华型",
+      "spec_id": "7773",
+      "price": "30.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7773.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2010款",
+      "trim": "2010款 Sportback 1.8T 尊贵型",
+      "spec_id": "7774",
+      "price": "32.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7774.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2010款",
+      "trim": "2010款 Sportback 1.4T 舒适型",
+      "spec_id": "7771",
+      "price": "26.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7771.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "370",
+      "series": "奥迪A3(进口)",
+      "year": "2010款",
+      "trim": "2010款 Sportback 1.4T 豪华型",
+      "spec_id": "7772",
+      "price": "28.90万",
+      "config_url": "https://car.autohome.com.cn/config/spec/7772.html"
+    }
+  ]
+}

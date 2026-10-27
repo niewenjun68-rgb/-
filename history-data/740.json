@@ -1,0 +1,240 @@
+{
+  "source": "autohome",
+  "series_id": "740",
+  "series": "奥迪A7",
+  "fetched_at": "2026-10-27T02:58:43.384Z",
+  "count": 23,
+  "pages": 20,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2025款 40 TFSI 豪华型",
+      "spec_id": "70823",
+      "price": "58.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70823.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2.0升 涡轮增压 265马力",
+      "trim": "2025款 45 TFSI 臻选型",
+      "spec_id": "70824",
+      "price": "62.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70824.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "3.0升 涡轮增压 340马力",
+      "trim": "2025款 55 TFSI quattro 尊享型",
+      "spec_id": "70825",
+      "price": "78.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70825.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2024款",
+      "trim": "2024款 40 TFSI 豪华型",
+      "spec_id": "65855",
+      "price": "58.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65855.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2024款",
+      "trim": "2024款 45 TFSI 臻选型",
+      "spec_id": "65818",
+      "price": "62.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65818.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2024款",
+      "trim": "2024款 55 TFSI quattro 尊享型",
+      "spec_id": "65819",
+      "price": "78.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65819.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2023款",
+      "trim": "2023款 40 TFSI 豪华型",
+      "spec_id": "60768",
+      "price": "58.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60768.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2023款",
+      "trim": "2023款 45 TFSI 臻选型",
+      "spec_id": "60769",
+      "price": "62.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60769.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2023款",
+      "trim": "2023款 55 TFSI quattro 尊享型",
+      "spec_id": "60770",
+      "price": "78.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60770.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2022款",
+      "trim": "2022款 40 TFSI 豪华型",
+      "spec_id": "52017",
+      "price": "58.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52017.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2022款",
+      "trim": "2022款 45 TFSI 臻选型",
+      "spec_id": "52018",
+      "price": "62.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52018.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2022款",
+      "trim": "2022款 45 TFSI 尊享型",
+      "spec_id": "52019",
+      "price": "68.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52019.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2022款",
+      "trim": "2022款 55 TFSI quattro 尊享型",
+      "spec_id": "55984",
+      "price": "78.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55984.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2021款",
+      "trim": "2021款 40 TFSI 豪华型",
+      "spec_id": "48139",
+      "price": "57.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48139.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2021款",
+      "trim": "2021款 45 TFSI 臻选型",
+      "spec_id": "48140",
+      "price": "61.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48140.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2021款",
+      "trim": "2021款 45 TFSI 专享型",
+      "spec_id": "48141",
+      "price": "70.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48141.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2020款",
+      "trim": "2020款 40 TFSI 豪华型",
+      "spec_id": "43025",
+      "price": "57.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43025.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2020款",
+      "trim": "2020款 45 TFSI 臻选型",
+      "spec_id": "43026",
+      "price": "61.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43026.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2020款",
+      "trim": "2020款 45 TFSI 专享型",
+      "spec_id": "43027",
+      "price": "70.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43027.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2019款",
+      "trim": "2019款 55 TFSI quattro 动感型",
+      "spec_id": "35416",
+      "price": "79.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/35416.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2019款",
+      "trim": "2019款 55 TFSI quattro 竞技版",
+      "spec_id": "35417",
+      "price": "85.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/35417.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2018款",
+      "trim": "2018款 35 TFSI 时尚型",
+      "spec_id": "31515",
+      "price": "55.60万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31515.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "740",
+      "series": "奥迪A7",
+      "year": "2018款",
+      "trim": "2018款 40 TFSI 进取型",
+      "spec_id": "31516",
+      "price": "61.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31516.html"
+    }
+  ]
+}

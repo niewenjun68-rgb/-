@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "7949",
+  "series": "宝马i7 M70L",
+  "fetched_at": "2026-10-27T03:09:02.181Z",
+  "count": 2,
+  "pages": 17,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7949",
+      "series": "宝马i7 M70L",
+      "year": "电动 741马力",
+      "trim": "2026款 M70L",
+      "spec_id": "76478",
+      "price": "159.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76478.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7949",
+      "series": "宝马i7 M70L",
+      "year": "电动 741马力",
+      "trim": "2023款 M70L",
+      "spec_id": "62588",
+      "price": "159.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62588.html"
+    }
+  ]
+}

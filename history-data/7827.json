@@ -1,0 +1,50 @@
+{
+  "source": "autohome",
+  "series_id": "7827",
+  "series": "宝马2系",
+  "fetched_at": "2026-10-27T03:02:45.517Z",
+  "count": 4,
+  "pages": 16,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7827",
+      "series": "宝马2系",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2026款 225L M运动套装",
+      "spec_id": "76465",
+      "price": "20.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76465.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7827",
+      "series": "宝马2系",
+      "year": "2.0升 涡轮增压 204马力",
+      "trim": "2026款 225L M运动曜夜套装",
+      "spec_id": "76466",
+      "price": "22.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76466.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7827",
+      "series": "宝马2系",
+      "year": "2025款",
+      "trim": "2025款 225L M运动套装",
+      "spec_id": "69411",
+      "price": "20.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69411.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7827",
+      "series": "宝马2系",
+      "year": "2025款",
+      "trim": "2025款 225L M运动曜夜套装",
+      "spec_id": "71261",
+      "price": "22.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71261.html"
+    }
+  ]
+}

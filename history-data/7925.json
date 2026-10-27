@@ -1,0 +1,60 @@
+{
+  "source": "autohome",
+  "series_id": "7925",
+  "series": "奥迪E5 Sportback",
+  "fetched_at": "2026-10-27T03:02:21.183Z",
+  "count": 5,
+  "pages": 12,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7925",
+      "series": "奥迪E5 Sportback",
+      "year": "电动 299马力",
+      "trim": "2026款 先锋型",
+      "spec_id": "74121",
+      "price": "23.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74121.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7925",
+      "series": "奥迪E5 Sportback",
+      "year": "电动 525马力",
+      "trim": "2026款 先锋quattro型",
+      "spec_id": "74120",
+      "price": "26.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74120.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7925",
+      "series": "奥迪E5 Sportback",
+      "year": "电动 525马力",
+      "trim": "2026款 钦定性能quattro型",
+      "spec_id": "75780",
+      "price": "27.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75780.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7925",
+      "series": "奥迪E5 Sportback",
+      "year": "电动 408马力",
+      "trim": "2026款 先锋Plus型",
+      "spec_id": "74119",
+      "price": "26.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74119.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7925",
+      "series": "奥迪E5 Sportback",
+      "year": "电动 787马力",
+      "trim": "2026款 旗舰quattro型",
+      "spec_id": "72707",
+      "price": "31.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72707.html"
+    }
+  ]
+}

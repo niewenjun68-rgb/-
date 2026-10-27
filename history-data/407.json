@@ -1,0 +1,590 @@
+{
+  "source": "autohome",
+  "series_id": "407",
+  "series": "比亚迪F3 (停售)",
+  "fetched_at": "2026-10-27T02:57:15.546Z",
+  "count": 58,
+  "pages": 20,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2020款",
+      "trim": "2020款 1.5L 手动经典型",
+      "spec_id": "42180",
+      "price": "4.49万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42180.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2020款",
+      "trim": "2020款 1.5L 手动超值版",
+      "spec_id": "45749",
+      "price": "4.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/45749.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2020款",
+      "trim": "2020款 1.5L 手动豪华版",
+      "spec_id": "48178",
+      "price": "5.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/48178.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2018款",
+      "trim": "2018款 1.5L 手动时尚型",
+      "spec_id": "33666",
+      "price": "4.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33666.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2018款",
+      "trim": "2018款 1.5L 手动精英型",
+      "spec_id": "33667",
+      "price": "4.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33667.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2018款",
+      "trim": "2018款 1.5L 手动尊享型",
+      "spec_id": "33668",
+      "price": "5.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33668.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2018款",
+      "trim": "2018款 1.5L 自动尊享型",
+      "spec_id": "33670",
+      "price": "6.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33670.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2018款",
+      "trim": "2018款 1.5L 手动经典型",
+      "spec_id": "33665",
+      "price": "4.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33665.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2016款",
+      "trim": "2016款 1.5L 手动舒适型",
+      "spec_id": "27918",
+      "price": "5.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27918.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2016款",
+      "trim": "2016款 1.5L 手动豪华型",
+      "spec_id": "27337",
+      "price": "5.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27337.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2016款",
+      "trim": "2016款 1.5L 手动尊贵型",
+      "spec_id": "27919",
+      "price": "6.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27919.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2016款",
+      "trim": "2016款 1.5L 自动豪华型",
+      "spec_id": "27920",
+      "price": "7.09万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27920.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2016款",
+      "trim": "2016款 1.5L 自动尊贵型",
+      "spec_id": "27921",
+      "price": "7.79万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27921.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2015款",
+      "trim": "2015款 节能版 1.5L 手动舒适型",
+      "spec_id": "21716",
+      "price": "5.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21716.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2015款",
+      "trim": "2015款 节能版 1.5L 手动豪华型",
+      "spec_id": "21717",
+      "price": "5.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21717.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2015款",
+      "trim": "2015款 节能版 1.5L 手动尊贵型",
+      "spec_id": "21718",
+      "price": "6.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21718.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2015款",
+      "trim": "2015款 节能版 1.5L 自动豪华型",
+      "spec_id": "21719",
+      "price": "6.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21719.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2015款",
+      "trim": "2015款 节能版 1.5L 自动尊贵型",
+      "spec_id": "21720",
+      "price": "7.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/21720.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5TI 手动豪华型",
+      "spec_id": "18648",
+      "price": "6.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18648.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5L 手动舒适型",
+      "spec_id": "18645",
+      "price": "4.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18645.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5L 手动豪华型",
+      "spec_id": "18597",
+      "price": "5.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18597.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2009款",
+      "trim": "2009款 1.6L 智能白金版自动型",
+      "spec_id": "5638",
+      "price": "8.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5638.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2008款",
+      "trim": "2008款 1.6L 自动挡",
+      "spec_id": "4947",
+      "price": "8.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4947.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2005款",
+      "trim": "2005款 1.6L 舒适型",
+      "spec_id": "1592",
+      "price": "7.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1592.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2005款",
+      "trim": "2005款 1.6L 经济型",
+      "spec_id": "1873",
+      "price": "7.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1873.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2005款",
+      "trim": "2005款 1.6L 尊贵型GLX-i",
+      "spec_id": "1874",
+      "price": "8.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1874.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2005款",
+      "trim": "2005款 1.6L 旗舰型GLX-i NAVI",
+      "spec_id": "1875",
+      "price": "8.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/1875.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5L 手动尊贵型",
+      "spec_id": "18646",
+      "price": "6.09万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18646.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 手动豪华型",
+      "spec_id": "13806",
+      "price": "6.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13806.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 手动舒适型CNG",
+      "spec_id": "15439",
+      "price": "6.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15439.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 手动标准型CNG",
+      "spec_id": "15440",
+      "price": "6.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15440.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5L 自动豪华型",
+      "spec_id": "18647",
+      "price": "6.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18647.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2014款",
+      "trim": "2014款 1.5L 自动尊贵型",
+      "spec_id": "18180",
+      "price": "7.09万",
+      "config_url": "https://car.autohome.com.cn/config/spec/18180.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 自动舒适型",
+      "spec_id": "15087",
+      "price": "5.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15087.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 自动标准型",
+      "spec_id": "15088",
+      "price": "5.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15088.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 自动豪华型",
+      "spec_id": "15089",
+      "price": "7.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15089.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2007款",
+      "trim": "2007款 1.8L 尊贵型GLX-i",
+      "spec_id": "3018",
+      "price": "8.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3018.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2007款",
+      "trim": "2007款 1.8L 旗舰型GLX-i NAVI",
+      "spec_id": "3019",
+      "price": "9.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3019.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 1.5L 手动豪华型CNG",
+      "spec_id": "15441",
+      "price": "7.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/15441.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 节能版 1.5L 手动标准型",
+      "spec_id": "13805",
+      "price": "5.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13805.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2013款",
+      "trim": "2013款 节能版 1.5L 手动舒适型",
+      "spec_id": "13804",
+      "price": "4.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13804.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2012款",
+      "trim": "2012款 节能版 1.5L 手动舒适型",
+      "spec_id": "11203",
+      "price": "4.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11203.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2012款",
+      "trim": "2012款 节能版 1.5L 手动标准型",
+      "spec_id": "11204",
+      "price": "5.09万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11204.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2012款",
+      "trim": "2012款 节能版 1.5L 手动豪华型",
+      "spec_id": "11205",
+      "price": "5.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/11205.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2011款",
+      "trim": "2011款 1.5L 新白金版舒适型",
+      "spec_id": "9722",
+      "price": "5.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/9722.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2011款",
+      "trim": "2011款 1.5L 新白金版标准型",
+      "spec_id": "9576",
+      "price": "5.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/9576.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2011款",
+      "trim": "2011款 1.5L 新白金版豪华型",
+      "spec_id": "9577",
+      "price": "6.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/9577.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2009款",
+      "trim": "2009款 1.5L 智能白金版标准型GL-i",
+      "spec_id": "5591",
+      "price": "5.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5591.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2009款",
+      "trim": "2009款 1.5L 智能白金版豪华型GLX-i",
+      "spec_id": "5592",
+      "price": "6.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5592.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2009款",
+      "trim": "2009款 1.5L 智能白金版豪锐型GLX-i",
+      "spec_id": "5590",
+      "price": "6.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5590.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2009款",
+      "trim": "2009款 1.5L 智能白金版智能型GLX-i NAVI",
+      "spec_id": "5556",
+      "price": "7.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/5556.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2008款",
+      "trim": "2008款 1.5L 白金版实用型G-i",
+      "spec_id": "4401",
+      "price": "5.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4401.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2008款",
+      "trim": "2008款 1.5L 白金版标准型GL-i",
+      "spec_id": "4402",
+      "price": "6.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4402.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2008款",
+      "trim": "2008款 1.5L 白金版豪华型GLX-i",
+      "spec_id": "4403",
+      "price": "7.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4403.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2008款",
+      "trim": "2008款 1.5L 白金版旗舰型GLX-i NAVI",
+      "spec_id": "4404",
+      "price": "8.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/4404.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2007款",
+      "trim": "2007款 1.5L 白金实用型G-i",
+      "spec_id": "3239",
+      "price": "5.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3239.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2007款",
+      "trim": "2007款 1.5L 白金驾驭型",
+      "spec_id": "3240",
+      "price": "6.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3240.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "407",
+      "series": "比亚迪F3 (停售)",
+      "year": "2007款",
+      "trim": "2007款 1.5L 白金豪华型GLX-i",
+      "spec_id": "3241",
+      "price": "7.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/3241.html"
+    }
+  ]
+}

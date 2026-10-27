@@ -1,0 +1,210 @@
+{
+  "source": "autohome",
+  "series_id": "5238",
+  "series": "比亚迪e2",
+  "fetched_at": "2026-10-27T02:56:21.899Z",
+  "count": 20,
+  "pages": 9,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "电动 95马力",
+      "trim": "2024款 荣耀版 舒适型",
+      "spec_id": "67156",
+      "price": "8.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67156.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "电动 95马力",
+      "trim": "2024款 荣耀版 豪华型",
+      "spec_id": "67157",
+      "price": "9.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67157.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "电动 95马力",
+      "trim": "2023款 出行版",
+      "spec_id": "63011",
+      "price": "14.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63011.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2023款",
+      "trim": "2023款 舒适型",
+      "spec_id": "62327",
+      "price": "10.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62327.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2023款",
+      "trim": "2023款 豪华型",
+      "spec_id": "61270",
+      "price": "10.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61270.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 出行版",
+      "spec_id": "51405",
+      "price": "14.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51405.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 领畅版",
+      "spec_id": "52636",
+      "price": "14.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52636.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 标准型",
+      "spec_id": "53581",
+      "price": "9.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53581.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 舒适型",
+      "spec_id": "50581",
+      "price": "10.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50581.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 豪华型",
+      "spec_id": "50512",
+      "price": "11.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50512.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2021款",
+      "trim": "2021款 尊贵型",
+      "spec_id": "50582",
+      "price": "12.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50582.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2020款",
+      "trim": "2020款 升级版 标准续航版 标准型",
+      "spec_id": "47235",
+      "price": "8.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47235.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2020款",
+      "trim": "2020款 升级版 标准续航版 舒适型",
+      "spec_id": "47236",
+      "price": "10.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47236.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2020款",
+      "trim": "2020款 升级版 高续航版 豪华型",
+      "spec_id": "47237",
+      "price": "11.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47237.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2020款",
+      "trim": "2020款 升级版 高续航版 尊贵型",
+      "spec_id": "47238",
+      "price": "11.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47238.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2019款",
+      "trim": "2019款 标准续航版 悦·标准型",
+      "spec_id": "41398",
+      "price": "8.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41398.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2019款",
+      "trim": "2019款 标准续航版 智·舒适型",
+      "spec_id": "41095",
+      "price": "9.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41095.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2019款",
+      "trim": "2019款 高续航版 耀·豪华型",
+      "spec_id": "41399",
+      "price": "10.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41399.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2019款",
+      "trim": "2019款 高续航版 创·尊贵型",
+      "spec_id": "41158",
+      "price": "11.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41158.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5238",
+      "series": "比亚迪e2",
+      "year": "2019款",
+      "trim": "2019款 400出行版",
+      "spec_id": "41428",
+      "price": "14.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41428.html"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source": "autohome",
+  "series_id": "7950",
+  "series": "宝马M760Le",
+  "fetched_at": "2026-10-27T03:09:08.565Z",
+  "count": 1,
+  "pages": 9,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7950",
+      "series": "宝马M760Le",
+      "year": "3.0升 发动机:381马力 电动机:197马力",
+      "trim": "2023款 M760Le xDrive",
+      "spec_id": "62587",
+      "price": "159.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62587.html"
+    }
+  ]
+}

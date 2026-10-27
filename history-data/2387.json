@@ -1,0 +1,50 @@
+{
+  "source": "autohome",
+  "series_id": "2387",
+  "series": "宝马i8 (停售)",
+  "fetched_at": "2026-10-27T03:07:49.867Z",
+  "count": 4,
+  "pages": 7,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2387",
+      "series": "宝马i8 (停售)",
+      "year": "2020款",
+      "trim": "2020款 极夜流星限量版",
+      "spec_id": "43849",
+      "price": "202.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43849.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2387",
+      "series": "宝马i8 (停售)",
+      "year": "2019款",
+      "trim": "2019款 敞篷跑车",
+      "spec_id": "32969",
+      "price": "195.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/32969.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2387",
+      "series": "宝马i8 (停售)",
+      "year": "2016款",
+      "trim": "2016款 质子红限量版",
+      "spec_id": "25224",
+      "price": "209.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25224.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2387",
+      "series": "宝马i8 (停售)",
+      "year": "2014款",
+      "trim": "2014款 标准型",
+      "spec_id": "16937",
+      "price": "179.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/16937.html"
+    }
+  ]
+}

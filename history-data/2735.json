@@ -1,0 +1,270 @@
+{
+  "source": "autohome",
+  "series_id": "2735",
+  "series": "奥迪RS 5",
+  "fetched_at": "2026-10-27T03:01:33.136Z",
+  "count": 26,
+  "pages": 21,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Sportback 常规版",
+      "spec_id": "66267",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66267.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Sportback 燃擎版",
+      "spec_id": "66268",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66268.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Sportback 致臻版",
+      "spec_id": "66269",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66269.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Coupe 常规版",
+      "spec_id": "66270",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66270.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Coupe 燃擎版",
+      "spec_id": "66271",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66271.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS 5 2.9T Coupe 致臻版",
+      "spec_id": "66272",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66272.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Sportback 常规版",
+      "spec_id": "65086",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65086.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Sportback 暗金版",
+      "spec_id": "61660",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61660.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Sportback 黑曜版",
+      "spec_id": "61658",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61658.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Coupe 常规版",
+      "spec_id": "65087",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65087.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Coupe 暗金版",
+      "spec_id": "61661",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61661.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2023款",
+      "trim": "2023款 RS 5 2.9T Coupe 黑曜版",
+      "spec_id": "61659",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61659.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2022款",
+      "trim": "2022款 RS 5 2.9T Sportback 暗金版",
+      "spec_id": "55120",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55120.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2022款",
+      "trim": "2022款 RS 5 2.9T Sportback 黑曜版",
+      "spec_id": "55121",
+      "price": "85.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55121.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2022款",
+      "trim": "2022款 RS 5 2.9T Coupe 暗金版",
+      "spec_id": "55122",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55122.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2022款",
+      "trim": "2022款 RS 5 2.9T Coupe 黑曜版",
+      "spec_id": "55123",
+      "price": "87.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55123.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2021款",
+      "trim": "2021款 RS 5 2.9T Sportback 暗金版",
+      "spec_id": "51268",
+      "price": "83.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51268.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2021款",
+      "trim": "2021款 RS 5 2.9T Sportback 黑曜版",
+      "spec_id": "51269",
+      "price": "83.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51269.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2021款",
+      "trim": "2021款 RS 5 2.9T Coupe 暗金版",
+      "spec_id": "51266",
+      "price": "85.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51266.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2021款",
+      "trim": "2021款 RS 5 2.9T Coupe 黑曜版",
+      "spec_id": "51267",
+      "price": "85.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51267.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2020款",
+      "trim": "2020款 RS 5 2.9T Sportback",
+      "spec_id": "43209",
+      "price": "83.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43209.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2020款",
+      "trim": "2020款 RS 5 2.9T Coupe",
+      "spec_id": "43208",
+      "price": "85.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/43208.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2019款",
+      "trim": "2019款 RS 5 2.9T Sportback",
+      "spec_id": "41988",
+      "price": "84.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/41988.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2019款",
+      "trim": "2019款 RS 5 2.9T Coupe",
+      "spec_id": "38432",
+      "price": "86.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38432.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2014款",
+      "trim": "2014款 RS 5 Coupe 特别版",
+      "spec_id": "19447",
+      "price": "109.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19447.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2735",
+      "series": "奥迪RS 5",
+      "year": "2013款",
+      "trim": "2013款 RS 5 Cabriolet",
+      "spec_id": "13802",
+      "price": "128.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/13802.html"
+    }
+  ]
+}

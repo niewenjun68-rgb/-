@@ -1,0 +1,30 @@
+{
+  "source": "autohome",
+  "series_id": "7948",
+  "series": "宝马i5 M60",
+  "fetched_at": "2026-10-27T03:08:46.054Z",
+  "count": 2,
+  "pages": 6,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "7948",
+      "series": "宝马i5 M60",
+      "year": "电动 601马力",
+      "trim": "2026款 xDrive M60",
+      "spec_id": "76480",
+      "price": "55.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76480.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "7948",
+      "series": "宝马i5 M60",
+      "year": "2024款",
+      "trim": "2024款 xDrive M60",
+      "spec_id": "63217",
+      "price": "55.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63217.html"
+    }
+  ]
+}

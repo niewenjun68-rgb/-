@@ -1,0 +1,60 @@
+{
+  "source": "autohome",
+  "series_id": "2841",
+  "series": "奥迪SQ5",
+  "fetched_at": "2026-10-27T02:59:10.049Z",
+  "count": 5,
+  "pages": 18,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2841",
+      "series": "奥迪SQ5",
+      "year": "3.0升 涡轮增压 354马力",
+      "trim": "2024款 3.0 TFSI quattro",
+      "spec_id": "66921",
+      "price": "59.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66921.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2841",
+      "series": "奥迪SQ5",
+      "year": "2023款",
+      "trim": "2023款 3.0 TFSI quattro",
+      "spec_id": "63435",
+      "price": "59.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63435.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2841",
+      "series": "奥迪SQ5",
+      "year": "2021款",
+      "trim": "2021款 3.0 TFSI quattro",
+      "spec_id": "50041",
+      "price": "59.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/50041.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2841",
+      "series": "奥迪SQ5",
+      "year": "2017款",
+      "trim": "2017款 SQ5 3.0 TFSI quattro",
+      "spec_id": "27819",
+      "price": "66.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27819.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2841",
+      "series": "奥迪SQ5",
+      "year": "2014款",
+      "trim": "2014款 SQ5 3.0 TFSI quattro",
+      "spec_id": "17924",
+      "price": "66.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/17924.html"
+    }
+  ]
+}

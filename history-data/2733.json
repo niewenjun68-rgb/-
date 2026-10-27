@@ -1,0 +1,130 @@
+{
+  "source": "autohome",
+  "series_id": "2733",
+  "series": "奥迪RS 4",
+  "fetched_at": "2026-10-27T03:01:24.372Z",
+  "count": 12,
+  "pages": 16,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS4 Avant 常规版",
+      "spec_id": "66274",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66274.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS4 Avant 燃擎版",
+      "spec_id": "66275",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66275.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2.9升 双涡轮增压 450马力",
+      "trim": "2024款 RS4 Avant 致臻版",
+      "spec_id": "66276",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66276.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2023款",
+      "trim": "2023款 RS4 Avant 常规版",
+      "spec_id": "65082",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65082.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2023款",
+      "trim": "2023款 RS4 Avant 暗金版",
+      "spec_id": "61656",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61656.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2023款",
+      "trim": "2023款 RS4 Avant 黑曜版",
+      "spec_id": "61657",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61657.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2022款",
+      "trim": "2022款 RS4 Avant 暗金版",
+      "spec_id": "55124",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55124.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2022款",
+      "trim": "2022款 RS4 Avant 黑曜版",
+      "spec_id": "55125",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/55125.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2021款",
+      "trim": "2021款 RS4 Avant 暗金版",
+      "spec_id": "51264",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51264.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2021款",
+      "trim": "2021款 RS4 Avant 黑曜版",
+      "spec_id": "51265",
+      "price": "82.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51265.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2020款",
+      "trim": "2020款 RS 4 2.9T Avant",
+      "spec_id": "47274",
+      "price": "81.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/47274.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "2733",
+      "series": "奥迪RS 4",
+      "year": "2019款",
+      "trim": "2019款 RS 4 2.9T Avant",
+      "spec_id": "31753",
+      "price": "82.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31753.html"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source": "autohome",
+  "series_id": "5009",
+  "series": "比亚迪e1 (停售)",
+  "fetched_at": "2026-10-27T02:56:55.350Z",
+  "count": 6,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2020款",
+      "trim": "2020款 智·舒适型",
+      "spec_id": "42444",
+      "price": "6.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/42444.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2019款",
+      "trim": "2019款 进版",
+      "spec_id": "38695",
+      "price": "5.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38695.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2019款",
+      "trim": "2019款 悦版",
+      "spec_id": "38551",
+      "price": "6.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38551.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2019款",
+      "trim": "2019款 智版",
+      "spec_id": "38696",
+      "price": "7.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38696.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2019款",
+      "trim": "2019款 耀版",
+      "spec_id": "38552",
+      "price": "7.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/38552.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5009",
+      "series": "比亚迪e1 (停售)",
+      "year": "2019款",
+      "trim": "2019款 创·首发智行版",
+      "spec_id": "36797",
+      "price": "7.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/36797.html"
+    }
+  ]
+}

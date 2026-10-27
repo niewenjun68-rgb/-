@@ -1,0 +1,40 @@
+{
+  "source": "autohome",
+  "series_id": "4325",
+  "series": "奥迪A3新能源(进口)",
+  "fetched_at": "2026-10-27T03:00:29.572Z",
+  "count": 3,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4325",
+      "series": "奥迪A3新能源(进口)",
+      "year": "2017款",
+      "trim": "2017款 Sportback e-tron 舒适型",
+      "spec_id": "25917",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25917.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4325",
+      "series": "奥迪A3新能源(进口)",
+      "year": "2015款",
+      "trim": "2015款 Sportback e-tron 舒适型",
+      "spec_id": "23351",
+      "price": "39.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23351.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4325",
+      "series": "奥迪A3新能源(进口)",
+      "year": "2015款",
+      "trim": "2015款 Sportback e-tron 运动型",
+      "spec_id": "19657",
+      "price": "40.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/19657.html"
+    }
+  ]
+}

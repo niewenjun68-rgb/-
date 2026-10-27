@@ -1,0 +1,100 @@
+{
+  "source": "autohome",
+  "series_id": "4073",
+  "series": "比亚迪e5 (停售)",
+  "fetched_at": "2026-10-27T02:57:02.385Z",
+  "count": 9,
+  "pages": 4,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2018款",
+      "trim": "2018款 出行版",
+      "spec_id": "40813",
+      "price": "22.065万",
+      "config_url": "https://car.autohome.com.cn/config/spec/40813.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2018款",
+      "trim": "2018款 450 智联畅享型",
+      "spec_id": "33559",
+      "price": "22.065万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33559.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2018款",
+      "trim": "2018款 450 智联尊享型",
+      "spec_id": "33560",
+      "price": "23.065万",
+      "config_url": "https://car.autohome.com.cn/config/spec/33560.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2017款",
+      "trim": "2017款 300 e享型",
+      "spec_id": "30014",
+      "price": "19.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/30014.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2017款",
+      "trim": "2017款 300 尊贵型",
+      "spec_id": "30015",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/30015.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2017款",
+      "trim": "2017款 300 尊荣型",
+      "spec_id": "30016",
+      "price": "21.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/30016.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2016款",
+      "trim": "2016款 300 舒适型",
+      "spec_id": "25871",
+      "price": "22.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25871.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2016款",
+      "trim": "2016款 300 豪华型",
+      "spec_id": "25629",
+      "price": "23.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25629.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4073",
+      "series": "比亚迪e5 (停售)",
+      "year": "2016款",
+      "trim": "2016款 300 尊贵型",
+      "spec_id": "25630",
+      "price": "24.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/25630.html"
+    }
+  ]
+}

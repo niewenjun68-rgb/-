@@ -1,0 +1,290 @@
+{
+  "source": "autohome",
+  "series_id": "65",
+  "series": "宝马5系",
+  "fetched_at": "2026-10-27T03:03:03.207Z",
+  "count": 28,
+  "pages": 18,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 190马力",
+      "trim": "2026款 改款 525Li 豪华套装",
+      "spec_id": "76437",
+      "price": "36.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76437.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 190马力",
+      "trim": "2026款 改款 525Li M运动套装",
+      "spec_id": "76438",
+      "price": "36.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76438.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 改款 530Li 领先型 豪华套装",
+      "spec_id": "76439",
+      "price": "40.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76439.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 改款 530Li 领先型 M运动套装",
+      "spec_id": "76440",
+      "price": "40.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76440.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 530Li 马年版",
+      "spec_id": "76663",
+      "price": "41.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76663.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 改款 530Li xDrive M运动套装",
+      "spec_id": "76441",
+      "price": "42.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76441.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 改款 530Li 尊享型 豪华套装",
+      "spec_id": "76442",
+      "price": "44.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76442.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2.0升 涡轮增压 258马力",
+      "trim": "2026款 改款 530Li 尊享型 M运动套装",
+      "spec_id": "76443",
+      "price": "44.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76443.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 525Li 豪华套装",
+      "spec_id": "74515",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74515.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 525Li M运动套装",
+      "spec_id": "74516",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74516.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 530Li 领先型 豪华套装",
+      "spec_id": "74517",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74517.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 530Li 领先型 M运动套装",
+      "spec_id": "74518",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74518.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 530Li xDrive M运动套装",
+      "spec_id": "74519",
+      "price": "50.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74519.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 530Li 尊享型 豪华套装",
+      "spec_id": "74520",
+      "price": "52.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74520.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2026款",
+      "trim": "2026款 530Li 尊享型 M运动套装",
+      "spec_id": "74521",
+      "price": "52.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74521.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 525Li 豪华套装",
+      "spec_id": "71240",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71240.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 525Li M运动套装",
+      "spec_id": "71241",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71241.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li 领先型 豪华套装",
+      "spec_id": "71242",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71242.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li 领先型 M运动套装",
+      "spec_id": "71243",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71243.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li xDrive 豪华套装",
+      "spec_id": "71244",
+      "price": "50.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71244.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li xDrive M运动套装",
+      "spec_id": "71245",
+      "price": "50.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71245.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li 尊享型 豪华套装",
+      "spec_id": "71246",
+      "price": "52.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71246.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2025款",
+      "trim": "2025款 530Li 尊享型 M运动套装",
+      "spec_id": "71247",
+      "price": "52.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71247.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2024款",
+      "trim": "2024款 525Li 豪华套装",
+      "spec_id": "66537",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66537.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2024款",
+      "trim": "2024款 525Li M运动套装",
+      "spec_id": "64199",
+      "price": "43.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64199.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2024款",
+      "trim": "2024款 530Li 领先型 豪华套装",
+      "spec_id": "66502",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66502.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2024款",
+      "trim": "2024款 530Li 领先型 M运动套装",
+      "spec_id": "66526",
+      "price": "48.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66526.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "65",
+      "series": "宝马5系",
+      "year": "2024款",
+      "trim": "2024款 530Li xDrive 豪华套装",
+      "spec_id": "66162",
+      "price": "50.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66162.html"
+    }
+  ]
+}

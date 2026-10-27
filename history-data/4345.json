@@ -1,0 +1,60 @@
+{
+  "source": "autohome",
+  "series_id": "4345",
+  "series": "宝马7系新能源 (停售)",
+  "fetched_at": "2026-10-27T03:07:33.520Z",
+  "count": 5,
+  "pages": 5,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "4345",
+      "series": "宝马7系新能源 (停售)",
+      "year": "2018款",
+      "trim": "2018款 740Le",
+      "spec_id": "31069",
+      "price": "112.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31069.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4345",
+      "series": "宝马7系新能源 (停售)",
+      "year": "2018款",
+      "trim": "2018款 740Le xDrive",
+      "spec_id": "31070",
+      "price": "106.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/31070.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4345",
+      "series": "宝马7系新能源 (停售)",
+      "year": "2017款",
+      "trim": "2017款 740Le",
+      "spec_id": "27562",
+      "price": "112.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27562.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4345",
+      "series": "宝马7系新能源 (停售)",
+      "year": "2017款",
+      "trim": "2017款 740Le xDrive",
+      "spec_id": "23043",
+      "price": "115.80万",
+      "config_url": "https://car.autohome.com.cn/config/spec/23043.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "4345",
+      "series": "宝马7系新能源 (停售)",
+      "year": "2017款",
+      "trim": "2017款 740Le 未来百年特别版",
+      "spec_id": "27574",
+      "price": "150.00万",
+      "config_url": "https://car.autohome.com.cn/config/spec/27574.html"
+    }
+  ]
+}
