@@ -1,0 +1,230 @@
+{
+  "source": "autohome",
+  "series_id": "6762",
+  "series": "海鸥",
+  "fetched_at": "2026-10-27T03:35:21.544Z",
+  "count": 22,
+  "pages": 18,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 116马力",
+      "trim": "2027款 320KM 活力版",
+      "spec_id": "79549",
+      "price": "6.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79549.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 116马力",
+      "trim": "2027款 320KM 自由版",
+      "spec_id": "79550",
+      "price": "7.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79550.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 129马力",
+      "trim": "2027款 420KM 自在版",
+      "spec_id": "78508",
+      "price": "7.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78508.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 129马力",
+      "trim": "2027款 420KM 飞翔版",
+      "spec_id": "79267",
+      "price": "8.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79267.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 129马力",
+      "trim": "2027款 420KM 智趣版",
+      "spec_id": "79268",
+      "price": "9.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79268.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 75马力",
+      "trim": "2026款 305km 活力版",
+      "spec_id": "77748",
+      "price": "6.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77748.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 75马力",
+      "trim": "2026款 305km 自由版",
+      "spec_id": "77717",
+      "price": "7.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77717.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 75马力",
+      "trim": "2026款 405km 自在版",
+      "spec_id": "77718",
+      "price": "7.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77718.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "电动 75马力",
+      "trim": "2026款 405km 飞翔版",
+      "spec_id": "77749",
+      "price": "8.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77749.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 智驾版 305km 活力版",
+      "spec_id": "71690",
+      "price": "6.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71690.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 智驾版 305km 自由版",
+      "spec_id": "71691",
+      "price": "7.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71691.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 智驾版 405km 自在版",
+      "spec_id": "73635",
+      "price": "7.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/73635.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 305km 活力版",
+      "spec_id": "69068",
+      "price": "6.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69068.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 305km 自由版",
+      "spec_id": "69069",
+      "price": "7.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69069.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 405km 飞翔版",
+      "spec_id": "69070",
+      "price": "8.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69070.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2025款",
+      "trim": "2025款 智驾版 405km 飞翔版",
+      "spec_id": "71065",
+      "price": "8.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71065.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 305km 活力版",
+      "spec_id": "67024",
+      "price": "6.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67024.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 305km 自由版",
+      "spec_id": "67025",
+      "price": "7.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67025.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 405km 飞翔版",
+      "spec_id": "67026",
+      "price": "8.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67026.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2023款",
+      "trim": "2023款 活力版",
+      "spec_id": "62495",
+      "price": "7.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62495.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2023款",
+      "trim": "2023款 自由版",
+      "spec_id": "62496",
+      "price": "7.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62496.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6762",
+      "series": "海鸥",
+      "year": "2023款",
+      "trim": "2023款 飞翔版",
+      "spec_id": "57341",
+      "price": "8.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/57341.html"
+    }
+  ]
+}

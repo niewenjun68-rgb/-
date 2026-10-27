@@ -1,0 +1,240 @@
+{
+  "source": "autohome",
+  "series_id": "78",
+  "series": "雅阁",
+  "fetched_at": "2026-10-27T03:37:08.733Z",
+  "count": 23,
+  "pages": 9,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "1.5升 涡轮增压 192马力",
+      "trim": "2026款 运动系列 260TURBO 舒适版",
+      "spec_id": "78334",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78334.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "1.5升 涡轮增压 192马力",
+      "trim": "2026款 运动系列 260TURBO 豪华版",
+      "spec_id": "78335",
+      "price": "19.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78335.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "1.5升 涡轮增压 192马力",
+      "trim": "2026款 运动系列 260TURBO 尊贵版",
+      "spec_id": "78336",
+      "price": "21.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78336.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 260TURBO 舒适版",
+      "spec_id": "70014",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70014.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 260TURBO 豪华版",
+      "spec_id": "70026",
+      "price": "19.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70026.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 260TURBO 尊贵版",
+      "spec_id": "70027",
+      "price": "21.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70027.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 运动系列 260TURBO 舒适版",
+      "spec_id": "72256",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72256.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 运动系列 260TURBO 豪华版",
+      "spec_id": "72124",
+      "price": "19.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72124.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 运动系列 260TURBO 尊贵版",
+      "spec_id": "72191",
+      "price": "21.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72191.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2025款",
+      "trim": "2025款 260TURBO 旗舰版",
+      "spec_id": "70028",
+      "price": "23.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70028.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2024款",
+      "trim": "2024款 260TURBO 豪华版",
+      "spec_id": "66583",
+      "price": "19.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66583.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2024款",
+      "trim": "2024款 260TURBO 尊贵版",
+      "spec_id": "66584",
+      "price": "21.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66584.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2023款",
+      "trim": "2023款 260TURBO 舒适版",
+      "spec_id": "63164",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63164.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2023款",
+      "trim": "2023款 260TURBO 智享版",
+      "spec_id": "60967",
+      "price": "19.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60967.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2023款",
+      "trim": "2023款 260TURBO 卓越版",
+      "spec_id": "61615",
+      "price": "21.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61615.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2023款",
+      "trim": "2023款 260TURBO 旗舰版",
+      "spec_id": "61616",
+      "price": "22.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61616.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 锐·混动 2.0L 锐酷版",
+      "spec_id": "53471",
+      "price": "19.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53471.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 锐·混动 2.0L 锐领版",
+      "spec_id": "53472",
+      "price": "21.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53472.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 锐·混动 2.0L 幻夜·锐智版",
+      "spec_id": "53374",
+      "price": "23.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53374.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 锐·混动 2.0L 幻夜·锐尊版",
+      "spec_id": "53260",
+      "price": "25.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53260.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 260TURBO 舒享版",
+      "spec_id": "53639",
+      "price": "16.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53639.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 260TURBO 舒适版",
+      "spec_id": "53469",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53469.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "78",
+      "series": "雅阁",
+      "year": "2022款",
+      "trim": "2022款 260TURBO 豪华版",
+      "spec_id": "53470",
+      "price": "19.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/53470.html"
+    }
+  ]
+}

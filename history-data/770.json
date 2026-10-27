@@ -1,0 +1,280 @@
+{
+  "source": "autohome",
+  "series_id": "770",
+  "series": "RAV4荣放",
+  "fetched_at": "2026-10-27T03:36:36.795Z",
+  "count": 27,
+  "pages": 22,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.0升 发动机:152马力 电动机:113马力",
+      "trim": "2026款 双擎 2.0L 两驱精英版",
+      "spec_id": "75764",
+      "price": "16.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75764.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.0升 发动机:152马力 电动机:113马力",
+      "trim": "2026款 双擎 2.0L 两驱豪华版",
+      "spec_id": "75765",
+      "price": "18.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75765.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.0升 171马力",
+      "trim": "2026款 2.0L 两驱豪华版",
+      "spec_id": "75763",
+      "price": "17.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75763.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.0升 171马力",
+      "trim": "2026款 2.0L 四驱豪华版",
+      "spec_id": "74683",
+      "price": "18.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74683.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.5升 发动机:185马力 电动机:189马力",
+      "trim": "2026款 双擎 2.5L 四驱豪华版",
+      "spec_id": "75766",
+      "price": "21.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/75766.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2.5升 发动机:185马力 电动机:189马力",
+      "trim": "2026款 双擎 2.5L 四驱旗舰版",
+      "spec_id": "74690",
+      "price": "22.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74690.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "车型",
+      "trim": "2026款 双擎 2.0L 两驱探野版",
+      "spec_id": "78938",
+      "price": "暂无报价",
+      "config_url": "https://car.autohome.com.cn/config/spec/78938.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 2.0L CVT两驱都市版",
+      "spec_id": "68449",
+      "price": "16.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68449.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 2.0L CVT两驱风尚版",
+      "spec_id": "68450",
+      "price": "18.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68450.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 2.0L CVT两驱风尚Plus版",
+      "spec_id": "68451",
+      "price": "19.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68451.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 2.0L CVT四驱探险Plus版",
+      "spec_id": "68453",
+      "price": "20.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68453.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 2.0L CVT四驱探险旗舰版",
+      "spec_id": "68454",
+      "price": "22.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68454.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 双擎 2.5L E-CVT两驱精英Plus版",
+      "spec_id": "68456",
+      "price": "22.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68456.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2024款",
+      "trim": "2024款 双擎 2.5L E-CVT四驱精英Plus版",
+      "spec_id": "68457",
+      "price": "23.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68457.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT两驱都市版",
+      "spec_id": "62732",
+      "price": "17.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62732.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT两驱风尚版",
+      "spec_id": "62828",
+      "price": "19.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62828.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT两驱风尚Plus版",
+      "spec_id": "62876",
+      "price": "20.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62876.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT两驱20周年铂金纪念版",
+      "spec_id": "62734",
+      "price": "20.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62734.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT四驱探险版",
+      "spec_id": "62896",
+      "price": "21.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62896.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT四驱探险Plus版",
+      "spec_id": "62897",
+      "price": "21.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62897.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 2.0L CVT四驱探险旗舰版",
+      "spec_id": "62898",
+      "price": "23.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62898.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 双擎 2.5L E-CVT两驱精英版",
+      "spec_id": "62899",
+      "price": "22.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62899.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 双擎 2.5L E-CVT两驱精英Plus版",
+      "spec_id": "62900",
+      "price": "23.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62900.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 双擎 2.5L E-CVT四驱精英Plus版",
+      "spec_id": "62901",
+      "price": "24.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62901.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2023款",
+      "trim": "2023款 双擎 2.5L E-CVT四驱旗舰版",
+      "spec_id": "62878",
+      "price": "26.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62878.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2022款",
+      "trim": "2022款 2.0L CVT两驱都市版",
+      "spec_id": "57362",
+      "price": "17.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/57362.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "770",
+      "series": "RAV4荣放",
+      "year": "2022款",
+      "trim": "2022款 2.0L CVT两驱风尚版",
+      "spec_id": "57363",
+      "price": "19.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/57363.html"
+    }
+  ]
+}

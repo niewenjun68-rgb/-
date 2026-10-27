@@ -1,0 +1,430 @@
+{
+  "source": "autohome",
+  "series_id": "314",
+  "series": "本田CR-V",
+  "fetched_at": "2026-10-27T03:37:04.936Z",
+  "count": 42,
+  "pages": 20,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 两驱智尚版",
+      "spec_id": "78064",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78064.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 两驱智享版",
+      "spec_id": "78065",
+      "price": "20.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78065.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 两驱智逸版",
+      "spec_id": "78066",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78066.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 四驱智逸版",
+      "spec_id": "78067",
+      "price": "22.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78067.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 两驱智睿版",
+      "spec_id": "78068",
+      "price": "22.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78068.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 混动 2.0L 两驱智臻版",
+      "spec_id": "78069",
+      "price": "24.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78069.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 两驱智尚版",
+      "spec_id": "74891",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74891.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 两驱智享版",
+      "spec_id": "74892",
+      "price": "20.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74892.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 两驱智逸版",
+      "spec_id": "74893",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74893.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 四驱智逸版",
+      "spec_id": "74894",
+      "price": "22.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74894.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 两驱智睿版",
+      "spec_id": "74895",
+      "price": "22.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74895.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 全球30年荣耀款 2.0L e:HEV 两驱智臻版",
+      "spec_id": "74896",
+      "price": "24.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74896.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 1.5T 两驱活力5座版",
+      "spec_id": "78059",
+      "price": "18.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78059.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 1.5T 两驱锋尚5座版",
+      "spec_id": "78060",
+      "price": "20.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78060.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 1.5T 两驱锋尚7座版",
+      "spec_id": "78061",
+      "price": "20.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78061.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 1.5T 两驱智领5座版",
+      "spec_id": "78062",
+      "price": "21.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78062.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 1.5T 四驱臻享5座版",
+      "spec_id": "78063",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78063.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 240TURBO 两驱活力版",
+      "spec_id": "74887",
+      "price": "18.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74887.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 240TURBO 两驱锋尚5座版",
+      "spec_id": "74651",
+      "price": "20.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74651.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 240TURBO 两驱锋尚7座版",
+      "spec_id": "74888",
+      "price": "20.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74888.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 240TURBO 两驱智领版",
+      "spec_id": "74889",
+      "price": "21.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74889.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 全球30年荣耀款 240TURBO 四驱臻享版",
+      "spec_id": "74890",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74890.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 2.0L e:HEV 两驱智逸版",
+      "spec_id": "67568",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67568.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 2.0L e:HEV 两驱智睿版",
+      "spec_id": "67569",
+      "price": "23.49万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67569.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 两驱活力版 5座",
+      "spec_id": "71936",
+      "price": "18.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71936.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 两驱锋尚版 5座",
+      "spec_id": "71937",
+      "price": "20.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71937.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 两驱锋尚版 7座",
+      "spec_id": "71938",
+      "price": "20.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71938.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 两驱智领版 5座",
+      "spec_id": "71939",
+      "price": "21.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71939.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 两驱臻享版 7座",
+      "spec_id": "71940",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71940.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 四驱臻享版 5座",
+      "spec_id": "71941",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71941.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2024款",
+      "trim": "2024款 240TURBO 四驱尊耀版 5座",
+      "spec_id": "71942",
+      "price": "24.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71942.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 2.0L e:HEV 两驱智尚版",
+      "spec_id": "63479",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63479.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 2.0L e:HEV 两驱智享版",
+      "spec_id": "63480",
+      "price": "20.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63480.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 2.0L e:HEV 两驱智悦版",
+      "spec_id": "63481",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63481.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 2.0L e:HEV 两驱智耀版",
+      "spec_id": "63468",
+      "price": "23.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63468.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 2.0L e:HEV 四驱智尊版",
+      "spec_id": "61271",
+      "price": "26.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61271.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱活力版 5座",
+      "spec_id": "59836",
+      "price": "18.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59836.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱锋尚版 5座",
+      "spec_id": "59837",
+      "price": "20.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59837.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱锋尚版 7座",
+      "spec_id": "59838",
+      "price": "20.89万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59838.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱睿型版 5座",
+      "spec_id": "62226",
+      "price": "21.09万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62226.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱智领版 5座",
+      "spec_id": "57091",
+      "price": "21.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/57091.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "314",
+      "series": "本田CR-V",
+      "year": "2023款",
+      "trim": "2023款 240TURBO 两驱臻享版 7座",
+      "spec_id": "59730",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59730.html"
+    }
+  ]
+}

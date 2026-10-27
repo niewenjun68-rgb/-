@@ -1,0 +1,580 @@
+{
+  "source": "autohome",
+  "series_id": "528",
+  "series": "帕萨特",
+  "fetched_at": "2026-10-27T03:37:35.766Z",
+  "count": 57,
+  "pages": 27,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.4升 涡轮增压 150马力",
+      "trim": "2026款 出众款 280TSI 商务版",
+      "spec_id": "74973",
+      "price": "16.45万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74973.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2027款 Pro 300TSI 舒适版",
+      "spec_id": "79032",
+      "price": "17.20万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79032.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2027款 Pro 300TSI 豪华版",
+      "spec_id": "79033",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79033.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2025款 Pro 300TSI 龙耀版",
+      "spec_id": "72549",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72549.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2025款 Pro 300TSI 星空龙耀版",
+      "spec_id": "72550",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/72550.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2026款 Pro 300TSI 龙耀版",
+      "spec_id": "74980",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74980.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.5升 涡轮增压 160马力",
+      "trim": "2026款 Pro 300TSI 星空龙耀版",
+      "spec_id": "74981",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74981.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 186马力",
+      "trim": "2026款 出众款 330TSI 精英版",
+      "spec_id": "74974",
+      "price": "18.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74974.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 186马力",
+      "trim": "2026款 出众款 330TSI 星空精英版",
+      "spec_id": "74975",
+      "price": "18.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74975.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 186马力",
+      "trim": "2025款 出众款 330TSI 精英版",
+      "spec_id": "69851",
+      "price": "18.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69851.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 186马力",
+      "trim": "2025款 出众款 330TSI 星空精英版",
+      "spec_id": "69852",
+      "price": "18.85万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69852.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 出众款 380TSI 龙腾版",
+      "spec_id": "74976",
+      "price": "17.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74976.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 出众款 380TSI 星空龙腾版",
+      "spec_id": "74977",
+      "price": "17.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74977.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 出众款 380TSI 龙耀版",
+      "spec_id": "74978",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74978.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 出众款 380TSI 星空龙耀版",
+      "spec_id": "74979",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74979.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2027款 Pro 380TSI 豪华版",
+      "spec_id": "78951",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78951.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2027款 Pro 380TSI 领航版",
+      "spec_id": "78949",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/78949.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2027款 Pro 380TSI 旗舰版",
+      "spec_id": "79034",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79034.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2027款 Pro 380TSI 行政版",
+      "spec_id": "79035",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/79035.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 出众款 380TSI 龙腾版",
+      "spec_id": "69848",
+      "price": "17.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69848.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 出众款 380TSI 星空龙腾版",
+      "spec_id": "69853",
+      "price": "17.69万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69853.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 出众款 380TSI 龙耀版",
+      "spec_id": "69849",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69849.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 出众款 380TSI 星空龙耀版",
+      "spec_id": "69854",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69854.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 龙耀版",
+      "spec_id": "69730",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69730.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 星空龙耀版",
+      "spec_id": "69842",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69842.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 龙运版",
+      "spec_id": "69855",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69855.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 星空龙运版",
+      "spec_id": "69760",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69760.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 龙尊版",
+      "spec_id": "69856",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69856.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2025款 Pro 380TSI 星空龙尊版",
+      "spec_id": "67732",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67732.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 龙耀版",
+      "spec_id": "74982",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74982.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 星空龙耀版",
+      "spec_id": "74983",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74983.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 龙运版",
+      "spec_id": "74984",
+      "price": "22.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74984.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 星空龙运版",
+      "spec_id": "74985",
+      "price": "22.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74985.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 龙尊版",
+      "spec_id": "74986",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74986.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 星空龙尊版",
+      "spec_id": "74987",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74987.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2.0升 涡轮增压 220马力",
+      "trim": "2026款 Pro 380TSI 行政版",
+      "spec_id": "74988",
+      "price": "30.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/74988.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "1.4升 涡轮增压 150马力",
+      "trim": "2025款 出众款 280TSI 商务版",
+      "spec_id": "69850",
+      "price": "16.45万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69850.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 280TSI 商务版",
+      "spec_id": "65369",
+      "price": "18.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65369.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 280TSI 精英版",
+      "spec_id": "65370",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65370.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 280TSI 星空精英版",
+      "spec_id": "65371",
+      "price": "19.44万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65371.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 330TSI 精英版",
+      "spec_id": "64997",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64997.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 330TSI 星空精英版",
+      "spec_id": "65144",
+      "price": "20.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65144.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 精英版",
+      "spec_id": "65366",
+      "price": "20.83万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65366.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空精英版",
+      "spec_id": "65360",
+      "price": "20.83万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65360.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 豪华版",
+      "spec_id": "65298",
+      "price": "22.73万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65298.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空豪华版",
+      "spec_id": "65372",
+      "price": "22.73万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65372.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 旗舰版",
+      "spec_id": "65373",
+      "price": "24.33万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65373.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空旗舰版",
+      "spec_id": "65374",
+      "price": "24.33万",
+      "config_url": "https://car.autohome.com.cn/config/spec/65374.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 龙腾版",
+      "spec_id": "67089",
+      "price": "18.83万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67089.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空龙腾版",
+      "spec_id": "67090",
+      "price": "18.83万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67090.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 龙耀版",
+      "spec_id": "67091",
+      "price": "20.73万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67091.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空龙耀版",
+      "spec_id": "67092",
+      "price": "20.73万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67092.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 龙祥版",
+      "spec_id": "67093",
+      "price": "22.33万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67093.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2024款",
+      "trim": "2024款 380TSI 星空龙祥版",
+      "spec_id": "67094",
+      "price": "22.33万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67094.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2023款",
+      "trim": "2023款 280TSI 商务版",
+      "spec_id": "59485",
+      "price": "18.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59485.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2023款",
+      "trim": "2023款 280TSI 精英版",
+      "spec_id": "59486",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59486.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "528",
+      "series": "帕萨特",
+      "year": "2023款",
+      "trim": "2023款 280TSI 星空精英版",
+      "spec_id": "59487",
+      "price": "19.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59487.html"
+    }
+  ]
+}

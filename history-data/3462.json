@@ -1,0 +1,440 @@
+{
+  "source": "autohome",
+  "series_id": "3462",
+  "series": "雷凌",
+  "fetched_at": "2026-10-27T03:38:08.924Z",
+  "count": 43,
+  "pages": 25,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2.0升 171马力",
+      "trim": "2026款 雷凌L 汽油版 2.0L 领先版",
+      "spec_id": "76055",
+      "price": "13.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76055.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2.0升 171马力",
+      "trim": "2026款 雷凌L 汽油版 2.0L 领先PLUS版",
+      "spec_id": "76056",
+      "price": "13.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76056.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2.0升 171马力",
+      "trim": "2026款 雷凌L 汽油版 2.0L 豪华版",
+      "spec_id": "76057",
+      "price": "14.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76057.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2.0升 171马力",
+      "trim": "2026款 雷凌L 汽油版 2.0L 豪华PLUS版",
+      "spec_id": "76032",
+      "price": "14.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76032.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2026款 雷凌L 智能电混双擎 1.8L 领先版",
+      "spec_id": "76040",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76040.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2026款 雷凌L 智能电混双擎 1.8L 领先PLUS版",
+      "spec_id": "76051",
+      "price": "13.48万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76051.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2026款 雷凌L 智能电混双擎 1.8L 豪华版",
+      "spec_id": "76052",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76052.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2026款 雷凌L 智能电混双擎 1.8L 豪华PLUS版",
+      "spec_id": "76053",
+      "price": "14.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76053.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2026款 雷凌L 智能电混双擎 1.8L 尊贵版",
+      "spec_id": "76054",
+      "price": "14.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76054.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2023款 智能电混双擎 1.8L 领先版",
+      "spec_id": "60635",
+      "price": "13.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60635.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2024款 智能电混双擎 1.8L 领先版",
+      "spec_id": "68947",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68947.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2023款 智能电混双擎 1.8L 豪华版",
+      "spec_id": "62132",
+      "price": "13.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62132.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2023款 智能电混双擎 1.8L 运动版",
+      "spec_id": "60634",
+      "price": "14.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/60634.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2024款 智能电混双擎 1.8L 豪华版",
+      "spec_id": "68948",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68948.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2024款 智能电混双擎 1.8L 骑士版",
+      "spec_id": "66667",
+      "price": "13.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66667.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.8升 发动机:98马力 电动机:95马力",
+      "trim": "2024款 智能电混双擎 1.8L 运动版",
+      "spec_id": "68949",
+      "price": "14.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/68949.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.2升 涡轮增压 116马力",
+      "trim": "2026款 雷凌L 185T 豪华版",
+      "spec_id": "76050",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/76050.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.2升 涡轮增压 116马力",
+      "trim": "2024款 185T CVT豪华版",
+      "spec_id": "67325",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67325.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.2升 涡轮增压 116马力",
+      "trim": "2024款 185T CVT运动版",
+      "spec_id": "67326",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/67326.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.5升 121马力",
+      "trim": "2023款 TNGA 1.5L CVT进取版",
+      "spec_id": "62133",
+      "price": "11.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62133.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.5升 121马力",
+      "trim": "2023款 TNGA 1.5L CVT领先版",
+      "spec_id": "62134",
+      "price": "11.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62134.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.5升 121马力",
+      "trim": "2023款 TNGA 1.5L CVT豪华版",
+      "spec_id": "62135",
+      "price": "12.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62135.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "1.5升 121马力",
+      "trim": "2023款 TNGA 1.5L CVT运动版",
+      "spec_id": "62136",
+      "price": "13.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62136.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2023款",
+      "trim": "2023款 185T CVT豪华版",
+      "spec_id": "62137",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62137.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2023款",
+      "trim": "2023款 185T CVT运动版",
+      "spec_id": "62138",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/62138.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT进取版",
+      "spec_id": "54146",
+      "price": "13.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54146.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT领先版",
+      "spec_id": "54147",
+      "price": "13.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54147.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT豪华版",
+      "spec_id": "54148",
+      "price": "14.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54148.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT运动版",
+      "spec_id": "54149",
+      "price": "14.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54149.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT科技版",
+      "spec_id": "54150",
+      "price": "15.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54150.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 双擎 1.8H E-CVT尊享版",
+      "spec_id": "54151",
+      "price": "15.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54151.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 185T CVT豪华版",
+      "spec_id": "54953",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54953.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 185T CVT运动版",
+      "spec_id": "54954",
+      "price": "13.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54954.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 185T CVT科技版",
+      "spec_id": "54955",
+      "price": "13.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54955.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 TNGA 1.5L CVT精英版",
+      "spec_id": "59125",
+      "price": "11.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59125.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 改款 TNGA 1.5L CVT进取版",
+      "spec_id": "59921",
+      "price": "11.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/59921.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 TNGA 1.5L CVT领先版",
+      "spec_id": "54950",
+      "price": "11.88万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54950.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 TNGA 1.5L CVT豪华版",
+      "spec_id": "54951",
+      "price": "12.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54951.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 TNGA 1.5L CVT运动版",
+      "spec_id": "54952",
+      "price": "13.18万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54952.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2022款",
+      "trim": "2022款 TNGA 1.5L CVT进取版",
+      "spec_id": "54949",
+      "price": "11.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/54949.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2021款",
+      "trim": "2021款 双擎 1.8H E-CVT进取版",
+      "spec_id": "46286",
+      "price": "13.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/46286.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2021款",
+      "trim": "2021款 双擎 1.8H E-CVT领先版",
+      "spec_id": "49132",
+      "price": "13.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/49132.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "3462",
+      "series": "雷凌",
+      "year": "2021款",
+      "trim": "2021款 双擎 1.8H E-CVT豪华版",
+      "spec_id": "46287",
+      "price": "14.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/46287.html"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "source": "autohome",
+  "series_id": "5393",
+  "series": "皓影",
+  "fetched_at": "2026-10-27T03:37:15.362Z",
+  "count": 27,
+  "pages": 15,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 e:HEV 两驱豪华版",
+      "spec_id": "77902",
+      "price": "14.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77902.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 e:HEV 两驱尊耀版",
+      "spec_id": "77903",
+      "price": "16.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77903.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 e:HEV 四驱尊耀版",
+      "spec_id": "77904",
+      "price": "17.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77904.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2.0升 发动机:150马力 电动机:184马力",
+      "trim": "2026款 e:HEV 两驱尊享版",
+      "spec_id": "77905",
+      "price": "17.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77905.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 240TURBO 两驱精英版",
+      "spec_id": "77667",
+      "price": "13.79万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77667.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 240TURBO 两驱豪华版",
+      "spec_id": "77658",
+      "price": "14.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77658.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "1.5升 涡轮增压 193马力",
+      "trim": "2026款 240TURBO 两驱尊贵版",
+      "spec_id": "77900",
+      "price": "16.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/77900.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 e:HEV 两驱豪华版",
+      "spec_id": "70321",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70321.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 e:HEV 两驱尊耀版",
+      "spec_id": "70322",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70322.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 e:HEV 四驱尊耀版",
+      "spec_id": "70326",
+      "price": "23.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70326.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 e:HEV 两驱尊享版",
+      "spec_id": "70323",
+      "price": "23.49万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70323.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 e:HEV 四驱至尊版",
+      "spec_id": "70324",
+      "price": "26.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70324.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 240TURBO 两驱精英版 5座",
+      "spec_id": "70317",
+      "price": "18.59万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70317.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 240TURBO 两驱豪华版 5座",
+      "spec_id": "70318",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70318.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 240TURBO 两驱豪华版 7座",
+      "spec_id": "70325",
+      "price": "20.49万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70325.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 240TURBO 两驱尊贵版 5座",
+      "spec_id": "70319",
+      "price": "21.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70319.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2025款",
+      "trim": "2025款 240TURBO 四驱尊享版 5座",
+      "spec_id": "70320",
+      "price": "24.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/70320.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 两驱豪华版",
+      "spec_id": "66384",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66384.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 两驱尊贵版",
+      "spec_id": "66385",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66385.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 两驱尊耀版",
+      "spec_id": "66386",
+      "price": "21.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66386.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 四驱尊贵版",
+      "spec_id": "66388",
+      "price": "23.19万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66388.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 四驱尊耀版",
+      "spec_id": "66389",
+      "price": "23.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66389.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 两驱尊享版",
+      "spec_id": "66387",
+      "price": "23.49万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66387.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2024款",
+      "trim": "2024款 e:HEV 四驱至尊版",
+      "spec_id": "66390",
+      "price": "26.39万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66390.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2023款",
+      "trim": "2023款 e:HEV 两驱豪华版",
+      "spec_id": "63517",
+      "price": "19.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63517.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2023款",
+      "trim": "2023款 e:HEV 两驱尊贵版",
+      "spec_id": "63518",
+      "price": "22.29万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63518.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "5393",
+      "series": "皓影",
+      "year": "2023款",
+      "trim": "2023款 e:HEV 四驱尊贵版",
+      "spec_id": "63519",
+      "price": "23.99万",
+      "config_url": "https://car.autohome.com.cn/config/spec/63519.html"
+    }
+  ]
+}

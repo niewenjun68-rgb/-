@@ -1,0 +1,230 @@
+{
+  "source": "autohome",
+  "series_id": "6139",
+  "series": "海豚",
+  "fetched_at": "2026-10-27T03:35:29.742Z",
+  "count": 22,
+  "pages": 21,
+  "items": [
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 95马力",
+      "trim": "2025款 智驾版 420km 自由版",
+      "spec_id": "71048",
+      "price": "9.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71048.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 95马力",
+      "trim": "2025款 420km 活力版",
+      "spec_id": "69004",
+      "price": "9.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69004.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 95马力",
+      "trim": "2025款 420km 自由版",
+      "spec_id": "69005",
+      "price": "10.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69005.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 95马力",
+      "trim": "2025款 420km 时尚版",
+      "spec_id": "69006",
+      "price": "11.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/69006.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 177马力",
+      "trim": "2025款 智驾版 410km 时尚版",
+      "spec_id": "71049",
+      "price": "10.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71049.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 204马力",
+      "trim": "2025款 智驾版 520km 骑士版",
+      "spec_id": "71050",
+      "price": "12.58万",
+      "config_url": "https://car.autohome.com.cn/config/spec/71050.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "电动 204马力",
+      "trim": "2025款 520km 骑士版",
+      "spec_id": "66316",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66316.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "车型",
+      "trim": "2026款 基本型",
+      "spec_id": "76225",
+      "price": "暂无报价",
+      "config_url": "https://car.autohome.com.cn/config/spec/76225.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 302km 活力版",
+      "spec_id": "66812",
+      "price": "9.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66812.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 420km 自由版",
+      "spec_id": "66576",
+      "price": "11.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66576.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 420km 时尚版",
+      "spec_id": "66577",
+      "price": "11.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66577.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2024款",
+      "trim": "2024款 荣耀版 401km 骑士版",
+      "spec_id": "66578",
+      "price": "12.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/66578.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2023款",
+      "trim": "2023款 420km 自由版",
+      "spec_id": "61094",
+      "price": "11.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61094.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2023款",
+      "trim": "2023款 420km 时尚版",
+      "spec_id": "61095",
+      "price": "12.38万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61095.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2023款",
+      "trim": "2023款 50万纪念版Pro",
+      "spec_id": "64908",
+      "price": "12.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64908.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2023款",
+      "trim": "2023款 401km 骑士版",
+      "spec_id": "61096",
+      "price": "13.68万",
+      "config_url": "https://car.autohome.com.cn/config/spec/61096.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2023款",
+      "trim": "2023款 50万纪念版Plus",
+      "spec_id": "64976",
+      "price": "13.98万",
+      "config_url": "https://car.autohome.com.cn/config/spec/64976.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2021款",
+      "trim": "2021款 301km 活力版",
+      "spec_id": "52323",
+      "price": "10.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52323.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2021款",
+      "trim": "2021款 405km 自由版",
+      "spec_id": "52655",
+      "price": "11.28万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52655.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2021款",
+      "trim": "2021款 405km 时尚版",
+      "spec_id": "51852",
+      "price": "11.78万",
+      "config_url": "https://car.autohome.com.cn/config/spec/51852.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2021款",
+      "trim": "2021款 401km 骑士版",
+      "spec_id": "52656",
+      "price": "13.08万",
+      "config_url": "https://car.autohome.com.cn/config/spec/52656.html"
+    },
+    {
+      "source": "autohome",
+      "series_id": "6139",
+      "series": "海豚",
+      "year": "2021款",
+      "trim": "2021款 eStarPro共创联名版",
+      "spec_id": "54583",
+      "price": "暂无报价",
+      "config_url": "https://car.autohome.com.cn/config/spec/54583.html"
+    }
+  ]
+}
